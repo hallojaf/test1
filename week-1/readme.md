@@ -1,6 +1,6 @@
-### week 1
+## week 1
 
-#### schedule
+### schedule
 
 ```text
 Monday
@@ -34,7 +34,7 @@ Weekend
   planning and prep for week 2
 ```
 
-#### themes
+### themes
 
 **learning: understanding our learning selves**
 - learning signals
@@ -56,7 +56,7 @@ Weekend
 - working with git / github
 - using the debugger gem
 
-#### discussions
+### discussions
 
 - data, decisions, loops and flow
 - understanding and using variable scoping
