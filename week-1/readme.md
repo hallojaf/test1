@@ -5,7 +5,7 @@
 **Monday**
 - AM - orientation
 - PM - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-- A6 - IRB & code style
+- A6 - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 **Tuesday**
 - AM - intro to debugger gem, [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
