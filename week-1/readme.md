@@ -5,11 +5,11 @@
 ```text
 Monday
   AM - orientation
-  PM - Roman Numerals 3 ways
+  PM - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
   A6 - IRB & code style
 
 Tuesday
-  AM - intro to debugger gem, Roman Numerals case study
+  AM - intro to debugger gem, [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
   PM - how to think about software, Sorting & Searching
   A6 - sublime, git
 
