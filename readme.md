@@ -32,7 +32,7 @@ PM
 ### what should i be learning?
 
 #### learning competencies:
-- [full list]()
+- [full list](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/learning-competencies.md)
 
 #### learning goals:
 - [week 1](https://gist.github.com/dbc-challenges/3e4ea14543cde43d89ca)  
