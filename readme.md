@@ -9,7 +9,8 @@ see `readme.md` in each of the folders in this repo labeled `week-1`, `week-2`, 
 
 ```text
 AM
-  9:00  announcements
+  8:45  accountability buddy meeting
+  9:00  announcements in the Cave
   9:05  aha! moments
   9:20  daily direction
   9:30  booster session (optional)
