@@ -2,37 +2,35 @@
 
 ### schedule
 
-```text
-Monday
-  AM - orientation
-  PM - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-  A6 - IRB & code style
+**Monday**
+- AM - orientation
+- PM - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- A6 - IRB & code style
 
-Tuesday
-  AM - intro to debugger gem, [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-  PM - how to think about software, Sorting & Searching
-  A6 - sublime, git
+**Tuesday**
+- AM - intro to debugger gem, [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- PM - how to think about software, Sorting & Searching
+- A6 - sublime, git
 
-Wednesday
-  AM - Games
-  PM - Regex
-  A6 - sublime, git
+**Wednesday**
+- AM - Games
+- PM - Regex
+- A6 - sublime, git
 
-Thursday
-  AM - Data Structures
-  PM - Data Structures, Boggle
-  A6 - git
+**Thursday**
+- AM - Data Structures
+- PM - Data Structures, Boggle
+- A6 - git
 
-Friday
-  AM - Sudoku
-  PM - Sudoku
-  A6 - review and writing for the week
+**Friday**
+- AM - Sudoku
+- PM - Sudoku
+- A6 - review and writing for the week
 
-Weekend
-  review week 1
-  get some fresh air and relax, life is good
-  planning and prep for week 2
-```
+**Weekend**
+- review week 1
+- get some fresh air and relax, life is good
+- planning and prep for week 2
 
 ### themes
 
