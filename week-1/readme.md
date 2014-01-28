@@ -76,7 +76,6 @@ hints for speed:
   - seek out and surf your curiosity
   - go for breadth over depth first, then commit to depth when value is obvious
   - assuming you find value, take high level notes and include text snippets and page numbers to help you revisit
-
 - when watching videos
   - evaluate the video (authors, reviews, comments, views)
   - scan a TOC (if available) for items of interest and general awareness
@@ -88,7 +87,6 @@ hints for speed:
 
 - Eloquent Ruby
   - read part I (there are several chapters in part I)
-
 - The Well Grounded Rubyist
 - Practical Object Oriented Design in Ruby
 - Confident Ruby
@@ -105,7 +103,6 @@ the following are selected videos and chapters that should be maximally valuable
   - [about the course (17 mins)](https://class.coursera.org/algo-004/lecture/21)
   - [guiding principles for analysis of algorithms (15 mins) ](https://class.coursera.org/algo-004/lecture/4)
   - [intro to data structures (5 mins)](https://class.coursera.org/algo-004/lecture/61)
-
 - Algorithm Design Manual
   - read chapter 2, especially sections 2.2 and 2.3, and focus your energy on making sense of figures 2.3 and 2.4 to build an intuition for Big O notation
   - scan chapters 3 and 4 to develop context for data structures, sorting and searching
@@ -113,7 +110,6 @@ the following are selected videos and chapters that should be maximally valuable
   - and of course you'll scan the entire TOC, right?
   - [link to supplemental videos and slides](http://www.cs.sunysb.edu/~algorith/video-lectures/)
   - [solutions to selected problems](http://nbl.cewit.stonybrook.edu:60128/mediawiki/index.php/The_Algorithms_Design_Manual_%28Second_Edition%29)
-
 - Algorithms in a Nutshell
 
 #### Learning
