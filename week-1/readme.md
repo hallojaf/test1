@@ -61,3 +61,25 @@
 - reading errors and effective debugging
 - advanced Ruby syntax and idioms
 - brief introduction to algorithmic analysis and Big-O notation
+
+### reading
+
+#### Ruby
+
+- Eloquent Ruby
+- The Well Grounded Rubyist
+- Practical Object Oriented Design in Ruby
+- Confident Ruby
+- Humble Little Ruby Book
+
+#### Algorithms
+
+- Algorithm Design Manual
+- Algorithms in a Nutshell
+
+#### Learning
+
+- Mindset
+- Bene Brown on the power of vulnerability (video)
+- Adaptive Motivation (article)
+
