@@ -8,7 +8,7 @@
 - A6 - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 **Tuesday**
-- AM - [data, decisions, loops and flow](), [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- AM - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb), [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 2P - intro to debugger gem
 - PM - Sorting & Searching
 - A6 - sublime, git
