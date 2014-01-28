@@ -8,22 +8,26 @@
 - A6 - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 **Tuesday**
-- AM - intro to debugger gem, [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-- PM - how to think about software, Sorting & Searching
+- AM - [data, decisions, loops and flow](), [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- 2P - intro to debugger gem
+- PM - Sorting & Searching
 - A6 - sublime, git
 
 **Wednesday**
 - AM - Games
+- 2P -
 - PM - Regex
 - A6 - sublime, git
 
 **Thursday**
 - AM - Data Structures
+- 2P -
 - PM - Data Structures, Boggle
 - A6 - git
 
 **Friday**
 - AM - Sudoku
+- 2P -
 - PM - Sudoku
 - A6 - review and writing for the week
 
@@ -99,7 +103,7 @@ hints for speed:
 the following are selected videos and chapters that should be maximally valuable with minimal mathy-madness
 
 - Stanford on Coursera - Algorithms: Design and Analysis ([part I](https://class.coursera.org/algo-004/lecture/preview) & [part II](https://class.coursera.org/algo2-2012-001/lecture)) (video)
-  - [why study algorithms? (4 mins)](https://class.coursera.org/algo-004/lecture/20) 
+  - [why study algorithms? (4 mins)](https://class.coursera.org/algo-004/lecture/20)
   - [about the course (17 mins)](https://class.coursera.org/algo-004/lecture/21)
   - [guiding principles for analysis of algorithms (15 mins) ](https://class.coursera.org/algo-004/lecture/4)
   - [intro to data structures (5 mins)](https://class.coursera.org/algo-004/lecture/61)
