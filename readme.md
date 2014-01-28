@@ -22,6 +22,12 @@ PM
   2:00  reading hour / geek talk
   3:00  afternoon activity
   6:00  end of day
+
+
+== notes / exceptions == 
+
+- Wednesdays are solo days, choose your own pair or work alone
+- Shadi will offer 10-15 min pairing sessions 3-5 pm, Tue - Thu
 ```
 
 #### in general for this phase
