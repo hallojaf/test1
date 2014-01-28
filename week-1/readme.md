@@ -94,7 +94,7 @@ hints for speed:
 
 #### Algorithms
 
-*NOTE, some of this content is very heavy on "the math".  if that makes you nervous just keep breathing and remember these peopls are humans, just like you, and at one time they worked very hard to understand some of the patterns of thought, speech and writing that looks so easy for them now.  if you care enough to learn it, you can, of course.*
+*NOTE, some of this content is very heavy on "the math".  if that makes you nervous just keep breathing and remember these people are humans, just like you, and at one time they worked very hard to understand some of the patterns of thought, speech and writing that look so easy for them now.*
 
 the following are selected videos and chapters that should be maximally valuable with minimal mathy-madness
 
