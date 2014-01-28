@@ -8,26 +8,30 @@
 - A6 - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 **Tuesday**
-- AM - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb), [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-- 2P - intro to debugger gem
+- 9a - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb)
+- AM - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- 2p - intro to debugger gem
 - PM - Sorting & Searching
 - A6 - sublime, git
 
 **Wednesday**
+- 9a - tbd
 - AM - Games
-- 2P -
+- 2p - tbd
 - PM - Regex
 - A6 - sublime, git
 
 **Thursday**
+- 9a - tbd
 - AM - Data Structures
-- 2P -
+- 2p - tbd
 - PM - Data Structures, Boggle
 - A6 - git
 
 **Friday**
+- 9a - tbd
 - AM - Sudoku
-- 2P -
+- 2p - tbd
 - PM - Sudoku
 - A6 - review and writing for the week
 
