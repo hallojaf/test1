@@ -58,6 +58,22 @@ PM
 
 *we can modify this working agreement as we move along*
 
+### how can i pair well with others?
+
+consider the following recommended steps to get your pairing session off to a good start:
+
+![establish a working agreement](http://f.cl.ly/items/0F2v1l1u1k2w2K290u35/Screen%20Shot%202014-01-27%20at%205.31.34%20PM.png "working agreements make pairing easy")
+
+
+### what does our git workflow look like?
+
+[there](http://nvie.com/posts/a-successful-git-branching-model/) [are](https://www.atlassian.com/git/workflows) [many](http://scottchacon.com/2011/08/31/github-flow.html) [different](http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows) [workflows](http://randyfay.com/content/rebase-workflow-git) [available](http://stackoverflow.com/a/2429011/2836874) for you to consider when using git.  did you notice how many different links there were in the previous sentence?
+
+here's the one we'll be using in phase 1:
+
+![dbc phase 1 git workflow](http://f.cl.ly/items/2G3j3O2X1a1I09432b1q/Screen%20Shot%202014-01-27%20at%205.36.27%20PM.png "git workflow for phase 1")
+
+
 ### what else should i be aware of?
 
 #### group awareness
@@ -72,6 +88,7 @@ PM
   - agree on a plan of action
 
 #### self awareness
+
 - mindset
 - learning signals
   - confusion
@@ -91,5 +108,4 @@ PM
   - your confusion
   - your learning
   - your accomplishments
-
 
