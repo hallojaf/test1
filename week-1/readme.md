@@ -11,22 +11,22 @@
 - 9a - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb)
 - AM - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 2p - intro to debugger gem
-- PM - Sorting & Searching
-- A6 - sublime, git
+- PM - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
+- A6 - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
 **Wednesday**
 - 9a - tbd
 - AM - Games
 - 2p - tbd
 - PM - Regex
-- A6 - sublime, git
+- A6 - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
 **Thursday**
 - 9a - tbd
 - AM - Data Structures
 - 2p - tbd
 - PM - Data Structures, Boggle
-- A6 - git
+- A6 - [git](http://pcottle.github.io/learnGitBranching/)
 
 **Friday**
 - 9a - tbd
