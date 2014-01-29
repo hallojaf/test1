@@ -17,7 +17,7 @@
 Wednesday (Solo Optional)
 - 9a - intro to data structure, booster re: review sorting / searching
 - am - [Basic Data Structures - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
-- 2p - writing basic assertions, exploring data structures on http://bigocheatsheet.com
+- 2p - writing basic assertions, exploring data structures on [Big-O Cheat Sheet](http://bigocheatsheet.com/#data-structures)
 - pm - [Intermediate Data Structures - part 5](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
 - 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex), [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
