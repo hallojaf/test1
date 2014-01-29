@@ -3,28 +3,23 @@
 ### schedule
 
 **Monday**
-- AM - orientation
-- PM - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-- A6 - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
+- am - orientation
+- pm - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- 6p - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 **Tuesday**
 - 9a - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb)
-- AM - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- am - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 2p - intro to debugger gem
-- PM - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
-- A6 - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext)
-     - [git](http://pcottle.github.io/learnGitBranching/)
+- pm - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
+- 6p - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
 Wednesday (Solo Optional)
-- 9a - intro to data structures
-     - booster: review sorting / searching
+- 9a - intro to data structure, booster re: review sorting / searching
 - am - [Basic Data Structures - parts 1-4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
-- 2p - writing basic assertions
-     - exploring data structures on http://bigocheatsheet.com
+- 2p - writing basic assertions, exploring data structures on http://bigocheatsheet.com
 - pm - [Intermediate Data Structures - part 5](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
-- 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex)
-     - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext)
-     - [git](http://pcottle.github.io/learnGitBranching/)
+- 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex), [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
 **Thursday**
 - 9a - approach to games
