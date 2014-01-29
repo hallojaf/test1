@@ -12,28 +12,33 @@
 - AM - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 2p - intro to debugger gem
 - PM - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
-- A6 - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
+- A6 - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext)
+     - [git](http://pcottle.github.io/learnGitBranching/)
 
-**Wednesday**
-- 9a - tbd
-- AM - Games
-- 2p - tbd
-- PM - Regex
-- A6 - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
+Wednesday (Solo Optional)
+- 9a - intro to data structures
+     - booster: review sorting / searching
+- am - [Basic Data Structures - parts 1-4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
+- 2p - writing basic assertions
+     - exploring data structures on http://bigocheatsheet.com
+- pm - [Intermediate Data Structures - part 5](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
+- 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex)
+     - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext)
+     - [git](http://pcottle.github.io/learnGitBranching/)
 
 **Thursday**
-- 9a - tbd
-- AM - Data Structures
-- 2p - tbd
-- PM - Data Structures, Boggle
-- A6 - [git](http://pcottle.github.io/learnGitBranching/)
+- 9a - approach to games
+- am - Games
+- 2p - open forum / code reviews
+- pm - Boggle
+- 6p - [git](http://pcottle.github.io/learnGitBranching/)
 
 **Friday**
-- 9a - tbd
-- AM - Sudoku
-- 2p - tbd
-- PM - Sudoku
-- A6 - review and writing for the week
+- 9a - planning projects
+- am - Sudoku
+- 2p - open forum
+- pm - Sudoku
+- 6p - review and writing for the week
 
 **Weekend**
 - review week 1
@@ -106,6 +111,7 @@ hints for speed:
 
 the following are selected videos and chapters that should be maximally valuable with minimal mathy-madness
 
+- [Plain English explanation of Big O notation](http://stackoverflow.com/a/487278/2836874)
 - Stanford on Coursera - Algorithms: Design and Analysis ([part I](https://class.coursera.org/algo-004/lecture/preview) & [part II](https://class.coursera.org/algo2-2012-001/lecture)) (video)
   - [why study algorithms? (4 mins)](https://class.coursera.org/algo-004/lecture/20)
   - [about the course (17 mins)](https://class.coursera.org/algo-004/lecture/21)
