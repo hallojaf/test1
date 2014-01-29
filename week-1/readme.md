@@ -4,7 +4,7 @@
 
 **Monday**
 - am - orientation
-- pm - [Encoding / Decoding - part 1/2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- pm - [Encoding / Decoding - parts 1..2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 6p - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 **Tuesday**
@@ -16,7 +16,7 @@
 
 Wednesday (Solo Optional)
 - 9a - intro to data structure, booster re: review sorting / searching
-- am - [Basic Data Structures - parts 1-4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
+- am - [Basic Data Structures - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
 - 2p - writing basic assertions, exploring data structures on http://bigocheatsheet.com
 - pm - [Intermediate Data Structures - part 5](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
 - 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex), [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
