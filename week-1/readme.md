@@ -1,44 +1,74 @@
 ## week 1
 
+> “Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.”
+> 
+> -- [Brian Kernighan](http://en.wikipedia.org/wiki/Brian_Kernighan)
+
 ### schedule
 
-**Monday**
+#### Monday
 - am - orientation
 - pm - [Encoding / Decoding - parts 1..2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 6p - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
-**Tuesday**
+> "Simplicity is prerequisite for reliability."
+> 
+> -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+
+
+#### Tuesday
 - 9a - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb)
 - am - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 2p - intro to debugger gem
 - pm - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
 - 6p - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
-Wednesday (Solo Optional)
+> "Smart data structures and dumb code works a lot better than the other way around."
+> 
+> -- [Eric S. Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond)
+
+#### Wednesday (Solo Optional)
 - 9a - intro to data structure, booster re: review sorting / searching
 - am - [Basic Data Structures - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
 - 2p - writing basic assertions, exploring data structures on [Big-O Cheat Sheet](http://bigocheatsheet.com/#data-structures)
 - pm - [Intermediate Data Structures - part 5](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
 - 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex), [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
-**Thursday**
+> "Show me your flowchart (*your code*) and conceal your tables (*your data structures*), and I shall continue to be mystified. Show me your tables, and I won't usually need your flowchart; it'll be obvious."
+> 
+> -- [Fred Brooks](http://en.wikipedia.org/wiki/Fred_Brooks)
+
+#### Thursday
 - 9a - approach to games
 - am - Games
 - 2p - open forum / code reviews
 - pm - Boggle
 - 6p - [git](http://pcottle.github.io/learnGitBranching/)
 
-**Friday**
+> "Testing can only prove the presence of bugs, not their absence."
+> 
+> -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
+
+
+#### Friday
 - 9a - planning projects
 - am - Sudoku
 - 2p - open forum
 - pm - Sudoku
 - 6p - review and writing for the week
 
-**Weekend**
+> "Beware of bugs in the above code; I have only proved it correct, not tried it." 
+> 
+> -- [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
+
+#### Weekend
 - review week 1
 - get some fresh air and relax, life is good
 - planning and prep for week 2
+
+> "Object-oriented programming is an exceptionally bad idea which could only have originated in California."
+> 
+> -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 ### themes
 
