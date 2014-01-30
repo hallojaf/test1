@@ -40,10 +40,10 @@
 
 #### Thursday
 - 9a - approach to games
-- am - Games
+- am - [Hella Fun: Games - parts 1..2](https://github.com/banana-slugs-2014/week-1-challenge-games)
 - 2p - open forum / code reviews
-- pm - Boggle
-- 6p - [git](http://pcottle.github.io/learnGitBranching/)
+- pm - [Boggle: Games - parts 4..5](https://github.com/banana-slugs-2014/week-1-challenge-games)
+- 6p - [git](http://pcottle.github.io/learnGitBranching/), [Battleship: Games - part 3](https://github.com/banana-slugs-2014/week-1-challenge-games)
 
 > "Testing can only prove the presence of bugs, not their absence."
 > 
@@ -52,9 +52,9 @@
 
 #### Friday
 - 9a - planning projects
-- am - Sudoku
+- am - [Sudoku: Games - part 6](https://github.com/banana-slugs-2014/week-1-challenge-games)
 - 2p - open forum
-- pm - Sudoku
+- pm - [Sudoku: Games - part 7](https://github.com/banana-slugs-2014/week-1-challenge-games)
 - 6p - review and writing for the week
 
 > "Beware of bugs in the above code; I have only proved it correct, not tried it." 
