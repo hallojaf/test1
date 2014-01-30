@@ -63,8 +63,9 @@
 
 #### Weekend
 - review week 1
+- twist your brain with a few [Brain Teasers](https://github.com/banana-slugs-2014/week-1-challenge-brain-teasers)
 - get some fresh air and relax, life is good
-- planning and prep for week 2
+- plan and prep for week 2
 
 > "Object-oriented programming is an exceptionally bad idea which could only have originated in California."
 > 
