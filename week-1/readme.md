@@ -64,6 +64,7 @@
 #### Weekend
 - review week 1
 - twist your brain with a few [Brain Teasers](https://github.com/banana-slugs-2014/week-1-challenge-brain-teasers)
+- try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
 - get some fresh air and relax, life is good
 - plan and prep for week 2
 
