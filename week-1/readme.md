@@ -157,7 +157,7 @@ the following are selected videos and chapters that should be maximally valuable
 #### Learning
 
 - Adaptive Motivation (article)
-- Mindset
+- Mindset by Carol Dweck
   - read the "adaptive motivation" article above before diving into this book, it's short and will give you a good overview
 - Bene Brown on the power of vulnerability (video)
-
+- get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
