@@ -63,7 +63,7 @@
 
 #### Weekend
 - review week 1
-- [work on your fundamentals!](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/discussions/data-structures/which_data_structure.rb)
+- [work on your fundamentals!](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-1/discussions)
 - twist your brain with a few [Brain Teasers](https://github.com/banana-slugs-2014/week-1-challenge-brain-teasers)
 - try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
 - get some fresh air and relax, life is good
