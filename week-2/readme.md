@@ -108,6 +108,10 @@ pm - team project
 
 [dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
+#### Craftsmanship
+
+- [refactoring](http://sourcemaking.com/refactoring)
+
 #### Ruby
 
 - Practical Object Oriented Design in Ruby (finish this book)
