@@ -1,81 +1,81 @@
 ## week 1
 
 #### Monday
-9a - orientation to week 2, setting priorities and expectations
-am - Advanced Ruby
-2p - ruby booster
-pm - Advanced Ruby
-6p - reading: OOP, git
+9a - orientation to week 2, setting priorities and expectations  
+am - Advanced Ruby  
+2p - ruby booster  
+pm - Advanced Ruby  
+6p - reading: OOP, git  
 
 #### Tuesday
-9a - OOP intro
-am - OOP Foundations
-2p - intro to applications, mvc & mvvp
-pm - Building Applications
-6p - reading: OOP
+9a - OOP intro  
+am - OOP Foundations  
+2p - intro to applications, mvc & mvvp  
+pm - Building Applications  
+6p - reading: OOP  
 
 #### Wednesday (Solo Optional)
-9a - basic OO application design
-am - Building Applications
-2p - advanced testing
-pm - Building Applications
-6p - reading: OOP alternatives
+9a - basic OO application design  
+am - Building Applications  
+2p - advanced testing  
+pm - Building Applications  
+6p - reading: OOP alternatives  
 
 #### Thursday
-9a - intermediate OO application design
-am - Building Applications
-2p - intro to databases, SQL
-pm - Databases
-6p - reading re: databases
+9a - intermediate OO application design  
+am - Building Applications  
+2p - intro to databases, SQL  
+pm - Databases  
+6p - reading re: databases  
 
 
 #### Friday
-9a - building persistent applications
-am - pick your first team project
-2p - teachers as consultants
-pm - team project
-6p - review and writing for the week
+9a - building persistent applications  
+am - pick your first team project  
+2p - teachers as consultants  
+pm - team project  
+6p - review and writing for the week  
 
 
 #### Weekend
-- review week 2
-- work on your fundamentals!
-- try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
-- get some fresh air and relax, life is good
-- plan and prep for week 3
+- review week 2  
+- work on your fundamentals!  
+- try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)  
+- get some fresh air and relax, life is good  
+- plan and prep for week 3  
 
 
 ### themes
 
-**learning: optimizing your learning**
-- reflecting on your learning
-- finding your limits
-- obstacles to learning
-- exploring new modes
+**learning: optimizing your learning**  
+- reflecting on your learning  
+- finding your limits  
+- obstacles to learning  
+- exploring new modes  
 
-**technology: managing complexity**
-- advanced ruby
-- more code performance
-- object oriented programming
-- relational / non-relational data
-- advanced testing
-- test driven development intro
+**technology: managing complexity**  
+- advanced ruby  
+- more code performance  
+- object oriented programming  
+- relational / non-relational data  
+- advanced testing  
+- test driven development intro  
 
-**craftsmanship: focus on quality**
-- abstraction and modularization
-- writing maintainable code
-- refactoring code
-- participating in code reviews
-- community awareness
+**craftsmanship: focus on quality**  
+- abstraction and modularization  
+- writing maintainable code  
+- refactoring code  
+- participating in code reviews  
+- community awareness  
 
 
 ### discussions
 
-- advanced ruby (shadi)
-- managing dependency (shadi)
-- managing complexity (shadi)
-- testing your code (myles)
-- introduction to relational and non-relational databases (sherif)
+- advanced ruby (shadi)  
+- managing dependency (shadi)  
+- managing complexity (shadi)  
+- testing your code (myles)  
+- introduction to relational and non-relational databases (sherif)  
 
 
 ### reading
