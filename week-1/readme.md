@@ -105,9 +105,7 @@
 
 ### reading
 
-top level link: https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx
-
-(other links below)
+[link to dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
 hints for speed:
 
