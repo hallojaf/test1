@@ -1,4 +1,8 @@
-## week 1
+## week 2
+
+> About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.
+> 
+> -- Edsger W. Dijkstra
 
 #### Monday
 9a - orientation to week 2, setting priorities and expectations  
@@ -7,12 +11,20 @@ am - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advan
 pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advanced-ruby)  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [git](http://pcottle.github.io/learnGitBranching/)  
 
+> The best way to predict the future is to invent it.
+> 
+> -- Alan Kay
+
 #### Tuesday
 9a - OOP intro  
 am - OOP Foundations  
 2p - intro to applications, mvc & mvvp  
 pm - Building Applications  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)  
+
+> Science is what we understand well enough to explain to a computer. Art is everything else we do.
+> 
+> -- Donald Knuth
 
 #### Wednesday (Solo Optional)
 9a - basic OO application design  
@@ -21,6 +33,11 @@ am - Building Applications
 pm - Building Applications  
 6p - reading: OOP alternatives  
 
+
+> Science is the belief in the ignorance of experts.  The first principle is that you must not fool yourself — and you are the easiest person to fool.
+> 
+> -- Richard Feynman
+
 #### Thursday
 9a - intermediate OO application design  
 am - Building Applications  
@@ -28,6 +45,9 @@ am - Building Applications
 pm - Databases  
 6p - reading re: databases  
 
+> The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim.
+> 
+> -- Edsger W. Dijkstra
 
 #### Friday
 9a - building persistent applications  
@@ -36,6 +56,9 @@ am - pick your first team project
 pm - team project  
 6p - review and writing for the week  
 
+> A change in perspective is worth 80 IQ points.
+> 
+> -- Alan Kay
 
 #### Weekend
 - review week 2  
@@ -44,6 +67,9 @@ pm - team project
 - get some fresh air and relax, life is good  
 - plan and prep for week 3  
 
+> Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
+> 
+> -- Donald Knuth
 
 ### themes
 
@@ -92,6 +118,7 @@ pm - team project
 
 #### Learning
 
+- [Alan Kay on Learning](http://www.youtube.com/watch?v=50L44hEtVos)
 - On Intelligence
 - Bene Brown on the power of vulnerability (video)
 - get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
