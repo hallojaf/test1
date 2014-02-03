@@ -2,17 +2,17 @@
 
 #### Monday
 9a - orientation to week 2, setting priorities and expectations  
-am - Advanced Ruby  
+am - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advanced-ruby)  
 2p - ruby booster  
-pm - Advanced Ruby  
-6p - reading: OOP, git  
+pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advanced-ruby)  
+6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [git](http://pcottle.github.io/learnGitBranching/)  
 
 #### Tuesday
 9a - OOP intro  
 am - OOP Foundations  
 2p - intro to applications, mvc & mvvp  
 pm - Building Applications  
-6p - reading: OOP  
+6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)  
 
 #### Wednesday (Solo Optional)
 9a - basic OO application design  
