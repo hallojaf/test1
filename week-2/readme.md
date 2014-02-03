@@ -80,9 +80,7 @@ pm - team project
 
 ### reading
 
-top level link: https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx
-
-(other links below)
+[dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
 #### Ruby
 
@@ -94,8 +92,6 @@ top level link: https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx
 
 #### Learning
 
-- Adaptive Motivation (article)
-- Mindset by Carol Dweck
-  - read the "adaptive motivation" article above before diving into this book, it's short and will give you a good overview
+- On Intelligence
 - Bene Brown on the power of vulnerability (video)
 - get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
