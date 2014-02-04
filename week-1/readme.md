@@ -154,7 +154,7 @@ the following are selected videos and chapters that should be maximally valuable
 
 #### Learning
 
-- [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY)(video)
+- [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY) (video)
 - Adaptive Motivation (article)
 - Mindset by Carol Dweck
   - read the "adaptive motivation" article above before diving into this book, it's short and will give you a good overview
