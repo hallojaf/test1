@@ -19,7 +19,7 @@ pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advan
 9a - OOP intro  
 am - [OOP Foundations](https://github.com/banana-slugs-2014/week-2-challenge-oop-foundations)  
 2p - intro to applications, mvc & mvvp  
-pm - Building Applications  
+pm - [Building Applications - basic](https://github.com/banana-slugs-2014/week-2-basic-applications)  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)  
 ```text
 Pairing Sessions
@@ -40,9 +40,9 @@ Pairing Sessions
 
 #### Wednesday (Solo Optional)
 9a - basic OO application design  
-am - Building Applications  
+am - Building Applications - intermediate  
 2p - advanced testing  
-pm - Building Applications  
+pm - Building Applications - intermediate  
 6p - reading: OOP alternatives  
 
 ```text
@@ -64,9 +64,9 @@ Pairing Sessions
 
 #### Thursday
 9a - intermediate OO application design  
-am - Building Applications  
+am - Databases - foundations  
 2p - intro to databases, SQL  
-pm - Databases  
+pm - Databases - schema design  
 6p - reading re: databases  
 
 ```text
@@ -87,9 +87,9 @@ Pairing Sessions
 
 #### Friday
 9a - building persistent applications  
-am - pick your first team project  
+am - Team Project  
 2p - teachers as consultants  
-pm - team project  
+pm - Team Project  
 6p - review and writing for the week  
 
 > A change in perspective is worth 80 IQ points.
