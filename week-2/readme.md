@@ -21,6 +21,18 @@ am - [OOP Foundations](https://github.com/banana-slugs-2014/week-2-challenge-oop
 2p - intro to applications, mvc & mvvp  
 pm - Building Applications  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)  
+```text
+Pairing Sessions
+----------------
+3:00 Nicholas Cu 
+3:20 Mason O'Neal 
+3:40 Matthew Knudsen
+4:00 Darren Dahl
+4:20 Brittany Mazza
+4:40 Stephen Michael Buchanan
+5:00 Jamie McKenzie
+5:20 Quentin Devauchelle
+```
 
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.
 > 
@@ -33,6 +45,18 @@ am - Building Applications
 pm - Building Applications  
 6p - reading: OOP alternatives  
 
+```text
+Pairing Sessions
+----------------
+3:00 José Menor 
+3:20 Eric Joseph Johnson
+3:40 Mathilde Mouw
+4:00 Timothy Yau
+4:20 Irene Yiu
+4:40 Hunter Paull
+5:00 Armando Reed
+5:20 Erin Snyder
+```
 
 > Science is the belief in the ignorance of experts.  The first principle is that you must not fool yourself — and you are the easiest person to fool.
 > 
@@ -44,6 +68,18 @@ am - Building Applications
 2p - intro to databases, SQL  
 pm - Databases  
 6p - reading re: databases  
+
+```text
+Pairing Sessions
+----------------
+3:00 Philip Vargas 
+3:20 Chermaine Spence
+3:40 Hoyt 'Harry' Whelchel
+4:00 Ivan Sued
+4:20 Anne Willborn
+4:40 Christopher Woodrich
+5:00 Jonathan Wu
+```
 
 > The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim.
 > 
