@@ -20,7 +20,8 @@ pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advan
 am - [OOP Foundations](https://github.com/banana-slugs-2014/week-2-challenge-oop-foundations)  
 2p - intro to applications, mvc & mvvp  
 pm - [Building Applications - basic](https://github.com/banana-slugs-2014/week-2-basic-applications)  
-6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)  
+6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/banana-slugs-2014/week-2-challenge-toy-applications)  
+
 ```text
 Pairing Sessions
 ----------------
