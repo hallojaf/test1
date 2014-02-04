@@ -17,7 +17,7 @@ pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advan
 
 #### Tuesday
 9a - OOP intro  
-am - OOP Foundations  
+am - [OOP Foundations](https://github.com/banana-slugs-2014/week-2-challenge-oop-foundations)  
 2p - intro to applications, mvc & mvvp  
 pm - Building Applications  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)  
