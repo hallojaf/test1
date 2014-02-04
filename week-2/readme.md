@@ -147,6 +147,8 @@ pm - team project
 #### Craftsmanship
 
 - [refactoring](http://sourcemaking.com/refactoring)
+- Watch Steven Harms present at [Ruby Conf 2013 - Preferring Object-Orientation to Metaprogramming (35 mins)](http://www.youtube.com/watch?v=S3OhoWCnlB0)
+*Metaprogramming in Ruby is a mixed blessing: it makes many impossible things possible. This quicker, easier, more seductive path, however, can lead to contorted code that's difficult to maintain and can be hard to understand. So what's the alternative? For many uses of metaprogramming, good object-orientation, or a well-chosen design pattern, can provide just as much power without the challenges to intelligibility. This talk aims to (re)introduce several key Object Orientation concepts, and a few critical design patterns, then present them as superior alternatives to metaprogrammatic approaches.*
 
 #### Ruby
 
