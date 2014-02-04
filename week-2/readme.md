@@ -153,6 +153,7 @@ pm - team project
 #### Ruby
 
 - Practical Object Oriented Design in Ruby (finish this book)
+  - [github repo with source code](https://github.com/skmetz/poodr)
 - Eloquent Ruby (finish this entire book)
 - Confident Ruby (scan this book)
 - The Well Grounded Rubyist
