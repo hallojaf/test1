@@ -52,6 +52,8 @@ end
 
 #########################################
 
+# Mike's discussion topics: https://gist.github.com/mikelikesbikes/4b4aa10dd712b25cdd51
+
 Messenger.run
 
 m = Message.new(:content => "hi mom")
