@@ -40,11 +40,11 @@ Pairing Sessions
 > -- Donald Knuth
 
 #### Wednesday (Solo Optional)
-9a - basic OO application design  
-am - Building Applications - intermediate  
-2p - advanced testing  
-pm - Building Applications - intermediate  
-6p - reading: OOP alternatives  
+9a - design and planning  
+am - [Building Applications - intermediate (parts 1..2)](https://github.com/banana-slugs-2014/week-2-challenge-intermediate-applications)
+2p - code reviews  
+pm - [Building Applications - intermediate (parts 3..4)](https://github.com/banana-slugs-2014/week-2-challenge-intermediate-applications)
+6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/banana-slugs-2014/week-2-challenge-toy-applications), [OOP alternatives](http://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)   
 
 ```text
 Pairing Sessions
