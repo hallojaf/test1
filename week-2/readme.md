@@ -65,7 +65,7 @@ Pairing Sessions
 
 #### Thursday
 9a - intermediate OO application design  
-am - Databases - foundations  
+am - Databases - foundations, read chapters `1, 2, 4, 6, 7, 8, 12`in [Beginning Databases With PostgreSQL](https://www.dropbox.com/s/w2jxyygvmre9te3/Beginning%20Databases%20With%20PostgreSQL.pdf) 
 2p - intro to databases, SQL  
 pm - Databases - schema design  
 6p - reading re: databases  
