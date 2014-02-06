@@ -65,10 +65,10 @@ Pairing Sessions
 
 #### Thursday
 9a - intermediate OO application design  
-am - Databases - foundations: read sections I and II in [PostgreSQL intro](http://www.postgresql.org/docs/9.3/interactive/index.html) and chapters 1, 2 and 4 in [Beginning Databases With PostgreSQL](https://www.dropbox.com/s/w2jxyygvmre9te3/Beginning%20Databases%20With%20PostgreSQL.pdf)  
+am - [Databases - foundations](https://github.com/banana-slugs-2014/week-2-challenge-database-foundations)
 2p - more on schema design 
-pm - Databases - schema design  
-6p - read chapters 6, 7, 8, and 12 in [Beginning Databases With PostgreSQL](https://www.dropbox.com/s/w2jxyygvmre9te3/Beginning%20Databases%20With%20PostgreSQL.pdf) and chapters 1, 2, 9 and A1 in [Seven Databases in Seven Weeks](https://www.dropbox.com/s/frgw3d5ohuupap8/Seven%20Databases%20in%207%20Weeks.pdf)
+pm - Databases - applied modeling
+6p - read, review, rejoice
 
 ```text
 Pairing Sessions
