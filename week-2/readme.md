@@ -63,12 +63,12 @@ Pairing Sessions
 > 
 > -- Richard Feynman
 
-#### Thursday
-9a - intermediate OO application design  
-am - [Databases - foundations](https://github.com/banana-slugs-2014/week-2-challenge-database-foundations)
-2p - more on schema design 
-pm - Databases - applied modeling
-6p - read, review, rejoice
+#### Thursday  
+9a - intermediate OO application design   
+am - [Databases - foundations](https://github.com/banana-slugs-2014/week-2-challenge-database-foundations)  
+2p - more on schema design  
+pm - Databases - applied modeling  
+6p - read, review, rejoice  
 
 ```text
 Pairing Sessions
