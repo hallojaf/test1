@@ -24,6 +24,15 @@
 
 ### what should i be working on?
 
+#### learning! always.
+
+- watching [recorded talks by DBC teachers](http://talks.devbootcamp.com) on topics of interest (just login with your Socrates account)
+- signup for a [1 month free trial of Ruby Tapas](https://rubytapas.dpdcart.com/subscriber/add?plan_id=10&plan_term_id=117) (you can thank [Avdi Grimm](http://about.avdi.org) for the free trial for DBC students
+- reading [some of the many books](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx) recommended for phase 1
+- writing and sharing what you're learning with others
+- planning your work for today, tomorrow and next week
+
+
 #### weekly schedule
 
 see `readme.md` in each of the folders in this repo labeled `week-1`, `week-2`, and `week-3`
