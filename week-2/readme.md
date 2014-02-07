@@ -88,9 +88,9 @@ Pairing Sessions
 
 #### Friday
 9a - building persistent applications  
-am - Team Project  
+am - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-project)  
 2p - teachers as consultants  
-pm - Team Project  
+pm - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-project)  
 6p - review and writing for the week  
 
 > A change in perspective is worth 80 IQ points.
