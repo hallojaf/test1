@@ -102,7 +102,8 @@ pm - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-p
 - work on your fundamentals!  
 - try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)  
 - get some fresh air and relax, life is good  
-- plan and prep for week 3  
+- plan and prep for week 3
+- Battleship AI challenge [info here](https://github.com/banana-slugs-2014/Battle-Ship-Ai-Comp)  
 
 > Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 > 
