@@ -67,7 +67,7 @@ Pairing Sessions
 9a - intermediate OO application design   
 am - [Databases - foundations](https://github.com/banana-slugs-2014/week-2-challenge-database-foundations)  
 2p - more on schema design  
-pm - Databases - applied modeling  
+pm - [Databases - basic modeling](https://github.com/banana-slugs-2014/week-2-challenge-database-modeling)
 6p - read, review, rejoice  
 
 ```text
