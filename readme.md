@@ -6,7 +6,9 @@
 - week 2
   - [schedule](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-2)
   - [reading](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-2#reading)
-
+- week 3
+  - [schedule](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-3)
+  - [reading](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-3#reading)
 
 ### who can i ask for help?
 
