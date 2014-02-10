@@ -6,8 +6,8 @@
 
 #### Monday
 9a - orientation to week 3, setting priorities and expectations  
-am - [Databases - intermediate modeling](https://github.com/banana-slugs-2014/week-2-challenge-database-modeling)   
-2p - code review: choose 1 team project to discuss  
+am - [Databases - intermediate modeling](https://github.com/banana-slugs-2014/week-2-challenge-database-modeling)  
+2p - lecture: advanced assertions  
 pm - [Databases - working with data](https://github.com/banana-slugs-2014/week-3-challenge-working-with-data)  
 6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), [git](http://pcottle.github.io/learnGitBranching/)  
 
@@ -16,32 +16,32 @@ pm - [Databases - working with data](https://github.com/banana-slugs-2014/week-3
 > -- Douglas Crockford
 
 #### Tuesday
-9a - intro to object relational mapping  
-am - [Intro to ORM](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-orm)  
-2p - lecture: advanced testing  
-pm - [Intro to ORM](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-orm)  
-6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor
+9a - lecture: roll your own testing library  
+am - [Intro to ORM - parts 1..2](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-orm)  
+2p - lecture: exploring object relational mapping  
+pm - [Intro to ORM - parts 3..4](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-orm)  
+6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor  
 
 > I think the way to "solve" the problem of procrastination is to let delight pull you instead of making a to-do list push you.  The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.
 > 
 > -- Paul Graham
 
-#### Wednesday (Solo Optional)
-9a - intro to ActiveRecord  
-am - Applied ActiveRecord  
-2p - code reviews    
-pm - Applied ActiveRecord  
-6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor
+#### Wednesday (Solo Optional)  
+9a - lecture: intro to ActiveRecord  
+am - [Intro to ActiveRecord](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-activerecord)  
+2p - lecture: AR migrations  
+pm - [Applied ActiveRecord](https://github.com/banana-slugs-2014/week-3-challenge-applied-activerecord)  
+6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor  
 
 > Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 > 
 > -- Dennis Ritchie
 
 #### Thursday  
-9a - intro to real world applications  
-am - Open source team project  
-2p - design reviews and planning  
-pm - Open source team project  
+9a - lecture: real world apps, rake  
+am - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
+2p - lecture: rspec and test frameworks  
+pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
 6p - read, review, rejoice  
 
 > In mathematics you don't understand things. You just get used to them.
@@ -49,10 +49,10 @@ pm - Open source team project
 > -- John von Neumann
 
 #### Friday
-9a - intro to real world applications  
-am - Open source team project  
-2p - design reviews and planning  
-pm - Open source team project  
+9a - teachers as consultants  
+am - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
+2p - teachers as consultants  
+pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
 6p - celebrate  
  
 > You don't understand anything until you learn it more than one way.
