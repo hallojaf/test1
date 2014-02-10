@@ -114,6 +114,8 @@ pm - Open source team project
 - Confident Ruby (scan this book)
 - The Well Grounded Rubyist
 - Humble Little Ruby Book
+- [Clever Algorithms](http://www.cleveralgorithms.com/nature-inspired/index.html)
+
 
 #### Learning
 
