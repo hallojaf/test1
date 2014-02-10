@@ -28,9 +28,9 @@ pm - [Intro to ORM - parts 3..4](https://github.com/banana-slugs-2014/week-3-cha
 
 #### Wednesday (Solo Optional)  
 9a - lecture: intro to ActiveRecord  
-am - [Intro to ActiveRecord](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-activerecord)  
+am - [Intro to Active Record](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-active-record)  
 2p - lecture: AR migrations  
-pm - [Applied ActiveRecord](https://github.com/banana-slugs-2014/week-3-challenge-applied-activerecord)  
+pm - [Applied Active Record](https://github.com/banana-slugs-2014/week-3-challenge-applied-active-record)  
 6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor  
 
 > Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
