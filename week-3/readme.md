@@ -120,3 +120,4 @@ pm - Open source team project
 #### Learning
 
 - On Intelligence
+- [Catching the Big Fish](http://www.youtube.com/watch?v=3QsTnxUTx7U)
