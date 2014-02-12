@@ -33,6 +33,15 @@ am - [Intro to Active Record](https://github.com/banana-slugs-2014/week-3-challe
 pm - [Applied Active Record](https://github.com/banana-slugs-2014/week-3-challenge-applied-active-record)  
 6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor  
 
+```text
+      Shadi       Sherif      Topher       Strand
+      -----       ------      ------       ------
+3:00  Nicholas    Anne        Darren       Philip
+3:30  Harry       Eric        Jose         Brittany
+4:00  Timothy     Stephen     Irene        Chris
+4:30  Ivan        Mason       Chermaine    Matthew
+```
+
 > Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 > 
 > -- Dennis Ritchie
@@ -43,6 +52,15 @@ am - [Open source team project](https://github.com/banana-slugs-2014/week-3-chal
 2p - lecture: rspec and test frameworks  
 pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
 6p - read, review, rejoice  
+
+```text
+      Shadi       Sherif
+      -----       ------ 
+3:00  Mathilde    Quentin
+3:30  Jonathan    Armando
+4:00  Jamie       Hunter
+4:30  Erin
+```
 
 > In mathematics you don't understand things. You just get used to them.
 > 
