@@ -58,8 +58,8 @@ pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-chal
       -----       ------ 
 3:00  Mathilde    Quentin
 3:30  Jonathan    Armando
-4:00  Jamie       Hunter
-4:30  Erin
+4:00  Erin        Hunter
+4:30  Jamie
 ```
 
 > In mathematics you don't understand things. You just get used to them.
