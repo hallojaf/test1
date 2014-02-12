@@ -40,6 +40,7 @@ pm - [Applied Active Record](https://github.com/banana-slugs-2014/week-3-challen
 3:30  Harry       Eric        Jose         Brittany
 4:00  Timothy     Stephen     Irene        Chris
 4:30  Ivan        Mason       Chermaine    Matthew
+5:00  ---         Jonathan    ---          ---
 ```
 
 > Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
@@ -57,9 +58,8 @@ pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-chal
       Shadi       Sherif
       -----       ------ 
 3:00  Mathilde    Quentin
-3:30  Jonathan    Armando
-4:00  Erin        Hunter
-4:30  Jamie
+3:30  Erin        Armando
+4:00  Jamie       Hunter
 ```
 
 > In mathematics you don't understand things. You just get used to them.
