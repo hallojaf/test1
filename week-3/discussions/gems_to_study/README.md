@@ -1,9 +1,8 @@
-
 introductions to writing a gem:
 
-- [tutorial 1 to making a gem](https://github.com/radar/guides/blob/master/gem-development.md)
-- [tutorial 2 on making a gem](http://code.tutsplus.com/tutorials/gem-creation-with-bundler--net-25281)
-- [railscast on making a gem](http://railscasts.com/episodes/245-new-gem-with-bundler)
+- [very recent tutorial](https://github.com/radar/guides/blob/master/gem-development.md)
+- [2 year old tutorial](http://code.tutsplus.com/tutorials/gem-creation-with-bundler--net-25281)
+- [4 year old railscast](http://railscasts.com/episodes/245-new-gem-with-bundler)
 
 ---
 
