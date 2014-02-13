@@ -36,7 +36,7 @@ pm - [Applied Active Record](https://github.com/banana-slugs-2014/week-3-challen
 ```text
       Shadi       Sherif      Topher       Strand
       -----       ------      ------       ------
-3:00  Nicholas    Anne        Darren       Philip
+3:00  Nicholas    -           Darren       Philip
 3:30  Harry       Eric        Jose         Brittany
 4:00  Timothy     Stephen     Irene        Chris
 4:30  Ivan        Jonathan    Chermaine    Matthew
@@ -59,7 +59,7 @@ pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-chal
 3:00  Mathilde    Quentin
 3:30  Erin        Armando
 4:00  Jamie       Hunter
-4:30              Mason
+4:30  Mason       Anne
 ```
 
 > In mathematics you don't understand things. You just get used to them.
