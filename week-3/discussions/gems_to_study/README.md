@@ -1,3 +1,12 @@
+
+introductions to writing a gem:
+
+- [tutorial 1 to making a gem](https://github.com/radar/guides/blob/master/gem-development.md)
+- [tutorial 2 on making a gem](http://code.tutsplus.com/tutorials/gem-creation-with-bundler--net-25281)
+- [railscast on making a gem](http://railscasts.com/episodes/245-new-gem-with-bundler)
+
+---
+
 ### XKCD
 
 **this gem is funnny but trivial**
