@@ -15,10 +15,6 @@
 - anyone!  
   - ask any other student, alumni or any of the teachers any question, any time.
 
-- coaches!  
-  - send an email to coaches.sf@devbootcamp.com to ask for help from all coaches
-  - check out https://socrates.devbootcamp.com/coaches for personal profiles
-
 - online!
   - stackoverflow has human beings that answer questions, try it sometime
   - github repos for gems or other projects have real people behind them
