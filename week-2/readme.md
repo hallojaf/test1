@@ -1,7 +1,7 @@
 ## week 2
 
 > About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.
-> 
+>
 > -- Edsger W. Dijkstra
 
 #### Monday
@@ -12,7 +12,7 @@ pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advan
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [git](http://pcottle.github.io/learnGitBranching/)  
 
 > The best way to predict the future is to invent it.
-> 
+>
 > -- Alan Kay
 
 #### Tuesday
@@ -22,21 +22,8 @@ am - [OOP Foundations](https://github.com/banana-slugs-2014/week-2-challenge-oop
 pm - [Building Applications - basic](https://github.com/banana-slugs-2014/week-2-basic-applications)  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/banana-slugs-2014/week-2-challenge-toy-applications)  
 
-```text
-Pairing Sessions
-----------------
-3:00 Nicholas Cu 
-3:20 Mason O'Neal 
-3:40 Matthew Knudsen
-4:00 Darren Dahl
-4:20 Brittany Mazza
-4:40 Stephen Michael Buchanan
-5:00 Jamie McKenzie
-5:20 Quentin Devauchelle
-```
-
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.
-> 
+>
 > -- Donald Knuth
 
 #### Wednesday (Solo Optional)
@@ -46,44 +33,19 @@ am - [Building Applications - intermediate (parts 1..2)](https://github.com/bana
 pm - [Building Applications - intermediate (parts 3..4)](https://github.com/banana-slugs-2014/week-2-challenge-intermediate-applications)  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/banana-slugs-2014/week-2-challenge-toy-applications), [OOP alternatives](http://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)  
 
-```text
-Pairing Sessions
-----------------
-3:00 José Menor 
-3:20 Eric Joseph Johnson
-3:40 Mathilde Mouw
-4:00 Timothy Yau
-4:20 Irene Yiu
-4:40 Hunter Paull
-5:00 Armando Reed
-5:20 Erin Snyder
-```
-
 > Science is the belief in the ignorance of experts.  The first principle is that you must not fool yourself — and you are the easiest person to fool.
-> 
+>
 > -- Richard Feynman
 
 #### Thursday  
-9a - intermediate OO application design   
+9a - intermediate OO application design
 am - [Databases - foundations](https://github.com/banana-slugs-2014/week-2-challenge-database-foundations)  
 2p - more on schema design  
 pm - [Databases - basic modeling](https://github.com/banana-slugs-2014/week-2-challenge-database-modeling)  
 6p - read, review, rejoice  
 
-```text
-Pairing Sessions
-----------------
-3:00 Philip Vargas 
-3:20 Chermaine Spence
-3:40 Hoyt 'Harry' Whelchel
-4:00 Ivan Sued
-4:20 Anne Willborn
-4:40 Christopher Woodrich
-5:00 Jonathan Wu
-```
-
 > The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim.
-> 
+>
 > -- Edsger W. Dijkstra
 
 #### Friday
@@ -94,7 +56,7 @@ pm - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-p
 6p - review and writing for the week  
 
 > A change in perspective is worth 80 IQ points.
-> 
+>
 > -- Alan Kay
 
 #### Weekend
@@ -106,7 +68,7 @@ pm - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-p
 - Battleship AI challenge [info here](https://github.com/banana-slugs-2014/Battle-Ship-Ai-Comp)  
 
 > Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
-> 
+>
 > -- Donald Knuth
 
 ### themes
