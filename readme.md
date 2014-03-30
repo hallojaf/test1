@@ -41,15 +41,14 @@ see `readme.md` in each of the folders in this repo labeled `week-1`, `week-2`, 
 ```text
 AM
   8:45  accountability buddy meeting
-  9:00  announcements in the Cave
+  9:00  announcements
   9:05  aha! moments
   9:20  daily direction
   9:30  booster session (optional)
  10:00  morning activity
 
- 12:30 - 2:00 LUNCH
-
 PM
+  1:00 - 2:00 LUNCH
   2:00  reading hour / geek talk
   3:00  afternoon activity
   6:00  end of day
@@ -58,7 +57,6 @@ PM
 == notes / exceptions ==
 
 - Wednesdays are solo days, choose your own pair or work alone
-- Shadi will offer 10-15 min pairing sessions 3-5 pm, Tue - Thu
 ```
 
 #### in general for this phase
