@@ -1,14 +1,14 @@
 ### what are we doing?
 
 - week 1
-  - [schedule](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-1)
-  - [reading](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-1#reading)
+  - [schedule](week-1)
+  - [reading](week-1#reading)
 - week 2
-  - [schedule](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-2)
-  - [reading](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-2#reading)
+  - [schedule](week-2)
+  - [reading](week-2#reading)
 - week 3
-  - [schedule](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-3)
-  - [reading](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-3#reading)
+  - [schedule](week-3)
+  - [reading](week-3#reading)
 
 ### who can i ask for help?
 
@@ -59,7 +59,7 @@ PM
   6:00  end of day
 
 
-== notes / exceptions == 
+== notes / exceptions ==
 
 - Wednesdays are solo days, choose your own pair or work alone
 - Shadi will offer 10-15 min pairing sessions 3-5 pm, Tue - Thu
@@ -74,7 +74,7 @@ PM
 ### what should i be learning?
 
 #### learning competencies:
-- [full list](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/learning-competencies.md)
+- [full list](learning-competencies.md)
 
 #### learning goals:
 - [week 1](week-1/learning-goals.md)
@@ -104,9 +104,7 @@ consider the following recommended steps to get your pairing session off to a go
 
 [there](http://nvie.com/posts/a-successful-git-branching-model/) [are](https://www.atlassian.com/git/workflows) [many](http://scottchacon.com/2011/08/31/github-flow.html) [different](http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows) [workflows](http://randyfay.com/content/rebase-workflow-git) [available](http://stackoverflow.com/a/2429011/2836874) for you to consider when using git.  did you notice how many different links there were in the previous sentence?
 
-here's the one we'll be using in phase 1:
-
-![dbc phase 1 git workflow](http://f.cl.ly/items/2G3j3O2X1a1I09432b1q/Screen%20Shot%202014-01-27%20at%205.36.27%20PM.png "git workflow for phase 1")
+here's the one we'll be using in phase 1: [how-to-submit](how-to-submit.md)
 
 
 ### what else should i be aware of?
@@ -143,4 +141,3 @@ here's the one we'll be using in phase 1:
   - your confusion
   - your learning
   - your accomplishments
-
