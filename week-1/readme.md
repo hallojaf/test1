@@ -1,7 +1,7 @@
 ## week 1
 
 > “Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.”
-> 
+>
 > -- [Brian Kernighan](http://en.wikipedia.org/wiki/Brian_Kernighan)
 
 ### schedule
@@ -12,19 +12,19 @@
 - 6p - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 > "Simplicity is prerequisite for reliability."
-> 
+>
 > -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 
 #### Tuesday
-- 9a - [data, decisions, loops and flow](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/week-1/boosters/data-decisions-loops-flow.rb)
+- 9a - [data, decisions, loops and flow](boosters/data-decisions-loops-flow.rb)
 - am - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
 - 2p - intro to debugger gem
 - pm - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
 - 6p - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
 > "Smart data structures and dumb code works a lot better than the other way around."
-> 
+>
 > -- [Eric S. Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 #### Wednesday (Solo Optional)
@@ -35,7 +35,7 @@
 - 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex), [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
 
 > "Show me your flowchart (*your code*) and conceal your tables (*your data structures*), and I shall continue to be mystified. Show me your tables, and I won't usually need your flowchart; it'll be obvious."
-> 
+>
 > -- [Fred Brooks](http://en.wikipedia.org/wiki/Fred_Brooks)
 
 #### Thursday
@@ -46,7 +46,7 @@
 - 6p - [git](http://pcottle.github.io/learnGitBranching/), [Battleship: Games - part 3](https://github.com/banana-slugs-2014/week-1-challenge-games)
 
 > "Testing can only prove the presence of bugs, not their absence."
-> 
+>
 > -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 
@@ -57,20 +57,20 @@
 - pm - [Sudoku: Games - part 7](https://github.com/banana-slugs-2014/week-1-challenge-games)
 - 6p - review and writing for the week
 
-> "Beware of bugs in the above code; I have only proved it correct, not tried it." 
-> 
+> "Beware of bugs in the above code; I have only proved it correct, not tried it."
+>
 > -- [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
 
 #### Weekend
 - review week 1
-- [work on your fundamentals!](https://github.com/banana-slugs-2014/phase-1-guide/tree/master/week-1/discussions)
+- [work on your fundamentals!](discussions)
 - twist your brain with a few [Brain Teasers](https://github.com/banana-slugs-2014/week-1-challenge-brain-teasers)
 - try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
 - get some fresh air and relax, life is good
 - plan and prep for week 2
 
 > "Object-oriented programming is an exceptionally bad idea which could only have originated in California."
-> 
+>
 > -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 ### themes
