@@ -77,14 +77,14 @@ PM
 - [full list](https://github.com/banana-slugs-2014/phase-1-guide/blob/master/learning-competencies.md)
 
 #### learning goals:
-- [week 1](https://gist.github.com/dbc-challenges/3e4ea14543cde43d89ca)  
-- [week 2](https://gist.github.com/dbc-challenges/3c983819a8604593791b)  
-- [week 3](https://gist.github.com/dbc-challenges/1da8d51de6229fedd73a)  
+- [week 1](week-1/learning-goals.md)
+- [week 2](week-2/learning-goals.md)
+- [week 3](week-3/learning-goals.md)
 
 
 ### what is our working agreement?
 
-- we meet in the Cave every morning at 9 am sharp (except Fridays for check-ins)
+- we meet every morning at 9 am sharp (except Fridays for check-ins)
 - we suggest that our top priorities for this phase be to:
   - learn how to respond and communicate appropriately (re: error messages, challenges, self talk)
   - seek opportunities to help each other, grow stronger as individuals and grow closer as a tribe
