@@ -29,10 +29,15 @@ If you are being harassed, notice that someone else is being harassed, or have a
 Dev Bootcamp Staff will be happy to help participants contact local law enforcement, provide escorts, or otherwise assist those experiencing harassment to feel safe for the duration of their time at Dev Bootcamp. 
 
 **New York City**
-Email address for organizers: nyc@devbootcamp.com
+Contact: 
+* Male: lloyd@devbootcamp.com
+* Female: rebecca@devbootcamp.com
 Local law enforcement: 311
-Local sexual assault hot line: 1-800-942-6906 (NYS sexual assault hotline); 212-227-3000 (Safe Horizons Rape, Sexual Assault, & Incest Hotline)
-Local emergency and non-emergency medical: 911 or 311
+Local sexual assault hot line: 
+* NYS sexual assault hotline: 1-800-942-6906 
+* Safe Horizons Rape, Sexual Assault, & Incest Hotline: 212-227-3000
+Local emergency and non-emergency medical: 911 (emergency) or 311
+(non-emergency)
 Local car service company:
 * Go Green Ride: (212) 364-2000
 * Quick Ride Corp: (212) 233-0005
