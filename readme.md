@@ -135,3 +135,7 @@ here's the one we'll be using in phase 1: [how-to-submit](how-to-submit.md)
   - your confusion
   - your learning
   - your accomplishments
+
+#### policies
+
+Please familarize yourself with [DBC Policies](dbc-policies/)

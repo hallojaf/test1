@@ -5,55 +5,89 @@
 > -- E.F. Codd
 
 #### Monday
-9a - orientation to week 3, setting priorities and expectations  
-am - [Databases - intermediate modeling](https://github.com/banana-slugs-2014/week-2-challenge-database-modeling)  
-2p - lecture: advanced assertions  
-pm - [Databases - working with data](https://github.com/banana-slugs-2014/week-3-challenge-working-with-data)  
-6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), [git](http://pcottle.github.io/learnGitBranching/)  
+- 9a - orientation to week 3, setting priorities and expectations
+- am - Intermediate Modelling
+  - [p1 - student roster](../../../../database-drill-student-roster-challenge)
+  - [p2 - forum design](../../../../forum-database-design-challenge)
+  - [p3 - family tree DB](../../../../family-tree-database-design-challenge)
+  - [p4 - address book schema](../../../../db-drill-address-book-schema-challenge)
+  - [p5 - poll database](../../../../poll-database-design-challenge)
+  - [p6 - reddit jr database](../../../../reddit-jr-database-design-challenge)
+  - [p7 - imbd database](../../../../imdb-database-design-challenge)
+  - [p8 - university course database](../../../../university-course-database-design-challenge)
+- 2p - lecture: advanced assertions
+- pm - Databases - working with data
+  - [p1 - student roster db from schema 1](../../../../student-roster-db-from-schema-challenge)
+  - [p2 - address book db from schema 2](../../../../address-book-db-from-schema-challenge)
+  - [p3 - poll db queries 1](../../../../poll-db-1-queries-challenge) (practice SQL statements with a live database)
+  - [p4 - poll db queries 2](../../../../poll-db-2-modifying-data-challenge) (practice harder SQL statements with a live database)
+  - [p5 - congress database 1](../../../../congress-database-1-from-csv-to-sqlite-with-ruby-challenge) (parsing CSV into a database, then creating ruby objects)
+  - [p6 - congress database 2](../../../../congress-database-2-scrub-and-analyze-with-ruby-challenge) (manipulating ruby objects and updating a database)
+  - [p7 - scraping hacker news 1](../../../../scraping-hn-1-building-objects-challenge) (parsing web pages into ruby objects with nokogiri)
+  - [p8 - scraping hacker news 2](../../../../scraping-hn-2-saving-to-csv-challenge) (saving ruby objects back to CSV)
+- 6p - Review, refactor, read
+  - Review
+      - [parsing data 1 csv in & csv out](../../../../parsing-data-1-csv-in-csv-out-challenge) (review - parsing CSV to ruby objects)
+      - [parsing data 2 csv in & anything  out](../../../../parsing-data-2-csv-in-anything-out-challenge) (review - parsing and multiple file formats)
+  - [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf)
+  - [git](http://pcottle.github.io/learnGitBranching/)
 
 > The good thing about reinventing the wheel is that you can get a round one.
 >
 > -- Douglas Crockford
 
 #### Tuesday
-9a - lecture: roll your own testing library  
-am - [Intro to ORM - parts 1..2](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-orm)  
-2p - lecture: exploring object relational mapping  
-pm - [Intro to ORM - parts 3..4](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-orm)  
-6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor  
+- 9a - lecture: roll your own testing library
+- am - Intro to ORM
+  - [active record jr - part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
+  - [active record jr - part 2](../../../../activerecord-jr-2-sql-be-gone-challenge)
+- 2p - lecture: exploring object relational mapping
+- pm - Intro to ORM
+  - [active record jr - part 3](../../../../activerecord-jr-3-pragmatism-challenge)
+  - [active record jr - part 4](../../../../activerecord-jr-4-metaprogramming-challenge)
+- 6p - Review, refactor, read
+  - [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf)
 
 > I think the way to "solve" the problem of procrastination is to let delight pull you instead of making a to-do list push you.  The most dangerous way to lose time is not to spend it having fun, but to spend it doing fake work.
 >
 > -- Paul Graham
 
-#### Wednesday (Solo Optional)  
-9a - lecture: intro to ActiveRecord  
-am - [Intro to Active Record](https://github.com/banana-slugs-2014/week-3-challenge-intro-to-active-record)  
-2p - lecture: AR migrations  
-pm - [Applied Active Record](https://github.com/banana-slugs-2014/week-3-challenge-applied-active-record)  
-6p - read [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf), review and refactor  
+#### Wednesday (Solo Optional)
+- 9a - lecture: intro to ActiveRecord
+- am - Intro to Active Record
+  - [Db Drill AR Student Schema](../../../../db-drill-ar-student-schema-challenge)
+  - [Database Drill ActiveRecord Associations](../../../../database-drill-activerecord-associations-challenge)
+- 2p - lecture: AR migrations
+- pm - Active Record Migrations
+  - [Db Drill Ar Symmetric Migrations](../../../../db-drill-ar-symmetric-migrations-challenge)
+  - [Advanced Active Record Migrations](../../../../advanced-active-record-migrations-challenge)
+- 6p - Review, refactor, read
+  - [Code Complete](https://www.dropbox.com/s/pmpgjd9tl15wllu/Code%20Complete.pdf)
 
 > Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.
 >
 > -- Dennis Ritchie
 
-#### Thursday  
-9a - lecture: real world apps, rake  
-am - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
-2p - lecture: rspec and test frameworks  
-pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
-6p - read, review, rejoice  
+#### Thursday
+- 9a - lecture: real world apps, rake
+- am - AR Associations
+	- Design Your Own Association
+- 2p - lecture: rspec and test frameworks
+- pm - AR Todo
+	- [AR Todos 1](../../../../activerecord-todos-part-1-challenge)
+	- [AR Todos 2](../../../../activerecord-todos-part-2-challenge)
+- 6p - Review, refactor, read
 
 > In mathematics you don't understand things. You just get used to them.
 >
 > -- John von Neumann
 
 #### Friday
-9a - teachers as consultants  
-am - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
-2p - teachers as consultants  
-pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-challenge-oss-team-project)  
-6p - celebrate  
+- 9a - teachers as consultants
+- am - Open source team project
+- 2p - teachers as consultants
+- pm - Open source team project
+- 6p - celebrate!
 
 > You don't understand anything until you learn it more than one way.
 >
@@ -61,30 +95,30 @@ pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-chal
 
 #### Weekend
 - review week 3
-- work on your fundamentals!  
-- get some fresh air and relax, life is good  
-- plan and prep for phase 2  
+- work on your fundamentals!
+- get some fresh air and relax, life is good
+- plan and prep for phase 2
 
 
 ### themes
 
-**learning: optimizing your learning**  
+**learning: optimizing your learning**
 - learning how others learn
 - exploring your teaching side
 
 
-**technology: managing complexity**  
-- advanced testing  
+**technology: managing complexity**
+- advanced testing
 - test driven development intro
 - studying source code
 - data driven applications
 - testing frameworks
 
 
-**craftsmanship: focus on quality**  
-- refactoring code  
-- participating in code reviews  
-- community awareness  
+**craftsmanship: focus on quality**
+- refactoring code
+- participating in code reviews
+- community awareness
 - writing unit tests
 - using testing frameworks
 - applied test driven development
@@ -121,3 +155,5 @@ pm - [Open source team project](https://github.com/banana-slugs-2014/week-3-chal
 
 - On Intelligence
 - [Catching the Big Fish](http://www.youtube.com/watch?v=3QsTnxUTx7U)
+
+

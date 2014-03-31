@@ -8,8 +8,12 @@
 
 #### Monday
 - am - orientation
-- pm - [Encoding / Decoding - parts 1..2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-- 6p - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
+- pm - Encoding / Decoding
+  - [Roman Numerals](../../../../roman-numerals-challenge)
+  - [Numbers in Words](../../../../numbers-in-words-challenge)
+- 6p - Review, refactor, read
+  - [code style](https://github.com/airbnb/ruby)
+  - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html)
 
 > "Simplicity is prerequisite for reliability."
 >
@@ -17,22 +21,42 @@
 
 
 #### Tuesday
-- 9a - [data, decisions, loops and flow](boosters/data-decisions-loops-flow.rb)
-- am - [Encoding / Decoding - part 3](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
-- 2p - intro to debugger gem
-- pm - [Sorting & Searching - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-sorting-searching)
-- 6p - [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
+- 9a - lecture: data, decisions, loops and flow
+- am - Encoding / Decoding
+  - [Roman Numerals Case
+Study](../../../../roman-numerals-case-study-challenge)
+- 2p - lecture: intro to Big O notation
+- pm - Sorting & Searching
+  - [overview](../../../../phase-1-guide/blob/master/week-1/discussions/sorting-searching.md)
+  - [p1: dictionary sort](../../../../dictionary-sort-challenge)
+  - [p2: linear search](../../../../algorithm-drill-linear-search-challenge)
+  - [p3: binary search](../../../../algorithm-drill-binary-search-challenge)
+  - [p4: binary vs. linear search](../../../../binary-vs-linear-searching-challenge)
+  - [p5: sort yourself](../../../../sort-yourself-challenge)
+- 6p - Review, refactor, read
+  - sublime: [a](https://www.shortcutfoo.com/app/tutorial/sublimetext), [b](https://gist.github.com/lucasfais/1207002/de52babd6674d5e6234bc25a63eab5eff151c36c), [c](http://www.cheatography.com/example42/cheat-sheets/sublime-text-2-shortcuts-os-x/)
+  - [git](http://pcottle.github.io/learnGitBranching/)
 
 > "Smart data structures and dumb code works a lot better than the other way around."
 >
 > -- [Eric S. Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 #### Wednesday (Solo Optional)
-- 9a - intro to data structure, booster re: review sorting / searching
-- am - [Basic Data Structures - parts 1..4](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
+- 9a - intro to data structures, intro to debugger gem
+- am - Data Structures
+  - [overview](../../../../phase-1-guide/blob/master/week-1/discussions/data-structures.md)
+  - [p1: nested arrays](../../../../data-drill-nested-arrays-challenge)
+  - [p2: nested arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
+  - [p3: stack and queue](../../../../data-drill-stack-and-queue-challenge)
+  - [p4: linked list](../../../../data-drill-linked-list-challenge)
 - 2p - writing basic assertions, exploring data structures on [Big-O Cheat Sheet](http://bigocheatsheet.com/#data-structures)
-- pm - [Intermediate Data Structures - part 5](https://github.com/banana-slugs-2014/week-1-challenge-data-structures)
-- 6p - [Regex](https://github.com/banana-slugs-2014/week-1-challenge-regex), [sublime](https://www.shortcutfoo.com/app/tutorial/sublimetext), [git](http://pcottle.github.io/learnGitBranching/)
+- pm - Data Structures
+  - [re-overview](../../../../phase-1-guide/blob/master/week-1/discussions/data-structures.md)
+  - [abstract data structures](../../../../review-abstract-data-structures-challenge)
+- 6p - Review, refactor, read
+  - [Regex](../../../../phase-1-guide/blob/master/week-1/discussions/regex.md)
+  - sublime: [a](https://www.shortcutfoo.com/app/tutorial/sublimetext), [b](https://gist.github.com/lucasfais/1207002/de52babd6674d5e6234bc25a63eab5eff151c36c), [c](http://www.cheatography.com/example42/cheat-sheets/sublime-text-2-shortcuts-os-x/)
+  - [git](http://pcottle.github.io/learnGitBranching/)
 
 > "Show me your flowchart (*your code*) and conceal your tables (*your data structures*), and I shall continue to be mystified. Show me your tables, and I won't usually need your flowchart; it'll be obvious."
 >
@@ -40,22 +64,27 @@
 
 #### Thursday
 - 9a - approach to games
-- am - [Hella Fun: Games - parts 1..2](https://github.com/banana-slugs-2014/week-1-challenge-games)
+- am - Games - Intro
+  - [p1: pig latin](../../../../pig-latin-challenge)
+  - [p2: ruby racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
 - 2p - open forum / code reviews
-- pm - [Boggle: Games - parts 4..5](https://github.com/banana-slugs-2014/week-1-challenge-games)
-- 6p - [git](http://pcottle.github.io/learnGitBranching/), [Battleship: Games - part 3](https://github.com/banana-slugs-2014/week-1-challenge-games)
+- pm - Games - Boards and Solvers
+  - [p3: boggle 1](../../../../boggle-1-basic-board-generation-challenge)
+  - [p4: boggle 2](../../../../boggle-2-word-checker-challenge)
+- 6p - Review, refactor, read
+  - [git](http://pcottle.github.io/learnGitBranching/)
+  - Games - [Battleship](../../../../battleship-challenge)
 
 > "Testing can only prove the presence of bugs, not their absence."
 >
 > -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
-
 #### Friday
 - 9a - planning projects
-- am - [Sudoku: Games - part 6](https://github.com/banana-slugs-2014/week-1-challenge-games)
+- am - [Games - Sudoku part 1](../../../../sudoku-1-modeling-logic-challenge)
 - 2p - open forum
-- pm - [Sudoku: Games - part 7](https://github.com/banana-slugs-2014/week-1-challenge-games)
-- 6p - review and writing for the week
+- pm - [Games - Sudoku part 2](../../../../sudoku-2-guessing-challenge)
+- 6p - Review, refactor, read
 
 > "Beware of bugs in the above code; I have only proved it correct, not tried it."
 >
@@ -63,8 +92,12 @@
 
 #### Weekend
 - review week 1
-- [work on your fundamentals!](discussions)
-- twist your brain with a few [Brain Teasers](https://github.com/banana-slugs-2014/week-1-challenge-brain-teasers)
+- work on your [fundamentals!](../../../../phase-1-guide/tree/master/week-1/discussions)
+  - that means READ EVERY FILE at the link above.  it's what's good for you.
+  - it's even better if you PRACTICE ALL THE THINGS there.  also good for you.
+  - it's even better still if you TEACH OTHERS WHAT YOU LEARNED afterwards.  
+  - i'm not YELLING, i'm just ENTHUSIASTIC!
+- twist your brain with a few [Brain Teasers](../../../../week-1-challenge-brain-teasers)
 - try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
 - get some fresh air and relax, life is good
 - plan and prep for week 2
