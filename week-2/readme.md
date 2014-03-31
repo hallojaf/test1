@@ -6,9 +6,9 @@
 
 #### Monday
 9a - orientation to week 2, setting priorities and expectations  
-am - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advanced-ruby)  
+am - [Advanced Ruby](https://github.com/fiddler-crabs-2014/week-2-challenge-advanced-ruby)  
 2p - ruby booster  
-pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advanced-ruby)  
+pm - [Advanced Ruby](https://github.com/fiddler-crabs-2014/week-2-challenge-advanced-ruby)  
 6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [git](http://pcottle.github.io/learnGitBranching/)  
 
 > The best way to predict the future is to invent it.
@@ -17,10 +17,10 @@ pm - [Advanced Ruby](https://github.com/banana-slugs-2014/week-2-challenge-advan
 
 #### Tuesday
 9a - OOP intro  
-am - [OOP Foundations](https://github.com/banana-slugs-2014/week-2-challenge-oop-foundations)  
+am - [OOP Foundations](https://github.com/fiddler-crabs-2014/week-2-challenge-oop-foundations)  
 2p - intro to applications, mvc & mvvp  
-pm - [Building Applications - basic](https://github.com/banana-slugs-2014/week-2-basic-applications)  
-6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/banana-slugs-2014/week-2-challenge-toy-applications)  
+pm - [Building Applications - basic](https://github.com/fiddler-crabs-2014/week-2-basic-applications)  
+6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/fiddler-crabs-2014/week-2-challenge-toy-applications)  
 
 > Science is what we understand well enough to explain to a computer. Art is everything else we do.
 >
@@ -28,10 +28,10 @@ pm - [Building Applications - basic](https://github.com/banana-slugs-2014/week-2
 
 #### Wednesday (Solo Optional)
 9a - design and planning  
-am - [Building Applications - intermediate (parts 1..2)](https://github.com/banana-slugs-2014/week-2-challenge-intermediate-applications)  
+am - [Building Applications - intermediate (parts 1..2)](https://github.com/fiddler-crabs-2014/week-2-challenge-intermediate-applications)  
 2p - code reviews  
-pm - [Building Applications - intermediate (parts 3..4)](https://github.com/banana-slugs-2014/week-2-challenge-intermediate-applications)  
-6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/banana-slugs-2014/week-2-challenge-toy-applications), [OOP alternatives](http://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)  
+pm - [Building Applications - intermediate (parts 3..4)](https://github.com/fiddler-crabs-2014/week-2-challenge-intermediate-applications)  
+6p - reading: [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf), [Building Applications - toys](https://github.com/fiddler-crabs-2014/week-2-challenge-toy-applications), [OOP alternatives](http://www.info.ucl.ac.be/~pvr/VanRoyChapter.pdf)  
 
 > Science is the belief in the ignorance of experts.  The first principle is that you must not fool yourself — and you are the easiest person to fool.
 >
@@ -39,9 +39,9 @@ pm - [Building Applications - intermediate (parts 3..4)](https://github.com/bana
 
 #### Thursday  
 9a - intermediate OO application design
-am - [Databases - foundations](https://github.com/banana-slugs-2014/week-2-challenge-database-foundations)  
+am - [Databases - foundations](https://github.com/fiddler-crabs-2014/week-2-challenge-database-foundations)  
 2p - more on schema design  
-pm - [Databases - basic modeling](https://github.com/banana-slugs-2014/week-2-challenge-database-modeling)  
+pm - [Databases - basic modeling](https://github.com/fiddler-crabs-2014/week-2-challenge-database-modeling)  
 6p - read, review, rejoice  
 
 > The question of whether Machines Can Think... is about as relevant as the question of whether Submarines Can Swim.
@@ -50,9 +50,9 @@ pm - [Databases - basic modeling](https://github.com/banana-slugs-2014/week-2-ch
 
 #### Friday
 9a - building persistent applications  
-am - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-project)  
+am - [Team Project](https://github.com/fiddler-crabs-2014/week-2-challenge-team-project)  
 2p - teachers as consultants  
-pm - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-project)  
+pm - [Team Project](https://github.com/fiddler-crabs-2014/week-2-challenge-team-project)  
 6p - review and writing for the week  
 
 > A change in perspective is worth 80 IQ points.
@@ -65,7 +65,7 @@ pm - [Team Project](https://github.com/banana-slugs-2014/week-2-challenge-team-p
 - try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)  
 - get some fresh air and relax, life is good  
 - plan and prep for week 3
-- Battleship AI challenge [info here](https://github.com/banana-slugs-2014/Battle-Ship-Ai-Comp)  
+- Battleship AI challenge [info here](https://github.com/fiddler-crabs-2014/Battle-Ship-Ai-Comp)  
 
 > Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 >

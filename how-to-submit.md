@@ -14,12 +14,15 @@ Clone the repository into your local repository
 git clone REPOSITORY_PATH
 ```
 
-Create a branch named YOUR_NAME (if solo) or PAIR_NAME_1-AND-PAIR_NAME_2 (if working in a pair) and checkout this branch. **Note:** please use first name and last initial or full names to avoid confusion.
+Create a branch named YOUR_NAME (if solo) or PAIR_NAME_1-AND-PAIR_NAME_2 (if working in a pair) and checkout this branch. 
+
+**Note:** please use first name and last initial or full names to avoid confusion.
 
 ```shell
-git checkout -b StrandM-AND-AnneS
+git checkout -b StrandM-AnneS
 ```
-Complete your challenge. Commit early and often with meaningful commit messages.
+Complete your challenge. Commit early and often with [meaningful commit
+messages](http://robots.thoughtbot.com/5-useful-tips-for-a-better-commit-message).
 
 ```shell
 git add filename
@@ -29,17 +32,19 @@ git commit -m "added test code"
 When you have a completed challenge, push your branch to github
 
 ```shell
-git push origin StrandM-AND-AnneS
+git push origin StrandM-AnneS
 ```
 
-Go to github and submit a pull request to master from your branch. **Do not (DO NOT) ever (EVER) merge a pull request into master. **
+Go to github and submit a pull request to master from your branch. 
 
-A teacher or fellow boot will review your code by commenting on your pull request.
+**Do not (DO NOT) ever (EVER) merge a pull request into master.**
+
+A teacher or fellow boot will review your code by commenting on your
+pull request and then closing it.
 
 ## Challenge Review and Refactor Workflow
 
 When completing a challenge review, you will need to get the existing code from a branch on github so the workflow is slightly different.
-
 
 If you don't already have a local copy of the repository, clone the repository into your local repository
 
@@ -57,13 +62,13 @@ git pull origin master
 You now need to checkout the branch you are reviewing (which will probably be a fellow boots name). This branch is available to checkout even if you don't see it in the list of branches (you may need to look on github to see the name).
 
 ```shell
-git checkout StrandM-AND-AnneS
+git checkout StrandM-AnneS
 ```
 
 From this branch, create a new branch for your review and refactor.
 
 ```shell
-git checkout -b BrickT-refactor
+git checkout -b StrandM-AnneS_BrickT-refactor
 ```
 Complete your challenge. Commit early and often with meaningful commit messages.
 
@@ -75,17 +80,19 @@ git commit -m "added test code"
 When you have a completed challenge, push your branch to github
 
 ```shell
-git push origin BrickT-refactor
+git push origin StrandM-AnneS_BrickT-refactor
 ```
 
-Go to github and submit a pull request to the branch you are reviewing (`StrandM-AND-AnneS`) from your branch (`StrandM-AND-AnneS-refactor`).
+Go to github and submit a pull request to the branch you are reviewing (`StrandM-AnneS`) from your branch (`StrandM-AnneS_BrickT-refactor`).
+
 **Do not (DO NOT) merge your pull request.**
 
 A teacher or fellow boot will review your code by commenting on your pull request.
 
 ## Group Project Workflow
 
-When working on a group project, you will be starting with a brand new repository which you will create as a private repository in the sea-lions-2014 organization.
+When working on a group project, you will be starting with a brand new
+repository which you will create as a private repository in your cohorts organization.
 
 [Create a new repository on github](https://help.github.com/articles/create-a-repo).
 

@@ -1,1 +1,0 @@
-These are the [sublime settings](https://gist.github.com/edshadi/3d779c4f3ed729e319ae) shadi uses for sublime. This is, by no means, an extensive list or the end of the road. Feel free to use, edit and add to them

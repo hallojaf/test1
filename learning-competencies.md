@@ -1,7 +1,7 @@
-# learning competencies
+# Learning competencies
 
 
-## testing and debugging
+## Testing and debugging
 - Identify where the error is, decipher the error message, and infer the likely source of the error
 - Know the solution to most common error messages,  and be able to explain succinctly why the error occurred
 - Use puts statements to view variable states and method returns to decipher non-obvious bugs
@@ -13,7 +13,7 @@
 - Work with testing libraries like Rspec
 
 
-## modeling
+## Modeling
 - Decompose a problem into smaller, easier-to-solve components
 - Diagram the relationship between the 'real world' and 'code'
 - Elucidate the action of a method with a real world example
@@ -45,7 +45,7 @@
 - Effectively use standard Ruby classes
 
 
-## ruby libraries, built-in classes and gems
+## Ruby libraries, built-in classes and gems
 - Use common methods from the String class effectively in code
 - Research and understand the Enumerable methods
 - Use ARGV to take in user input from the command line
@@ -55,7 +55,7 @@
 - Use the OpenURI built-in module or Net::HTTP   to download and read live html pages
 
 
-## data structures
+## Data structures
 - Implement common data structures to map relationships
 - Manipulate and access data in any of the common data structures
 - Determine when to use a particular data structure
@@ -64,13 +64,13 @@
 - Implement the Stack and Queue data structures in Ruby
 
 
-## algorithms
+## Algorithms
 - Implement simple mathematical algorithms in Ruby
 - Choose an optimal sorting algorithm based on complexity, memory, and other factors
 - Sort a data structure using common sorting algorithms
 
 
-## refactor
+## Refactor
 - Organize code for consistency and readability
 - Recognize incorrect conventions and fix them without breaking the interface
 - Recognize the characteristics of good code and Best Practices, and implement these in code
@@ -83,7 +83,7 @@
 - Apply common design patterns when refactoring code (Inheritance, Composition, MVC, etc. )
 
 
-## research
+## Research
 - Read and understand another code base
 - Research development tools and understand when they are useful
 - Research best practices and integrate them into code
@@ -92,13 +92,13 @@
 
 
 
-## development tools
+## Development Tools
 - Use IRB effectively to test code assumptions
 - Use Sublime effectively, navigating with shortcuts
 - Use tools to evaluate basic performance considerations, benchmarking, and tradeoffs between memory and speed ,
 
 
-## object oriented programming
+## Object-Oriented Programming
 - Use inheritance to model problems, and effectively implement inheritance in Ruby
 - Map data in a file from one format to another using Ruby
 - Choose the appropriate method to store data in a file
@@ -113,7 +113,7 @@
 - Decompose a problem in various dimensions including (but not limited to): separation of concerns, law of demeter, frequency of use, frequency of change, encapsulation, loose coupling, and the single-responsibility principle
 
 
-## database
+## Database
 - Design database schema from problem data
 - Model relationships in a relational database (one-to-one, one-to-many, many-to-many)
 - Create and modify a database in SQLite
@@ -133,7 +133,7 @@
 - Use Active Record Validations
 
 
-## learning
+## Learning
 - Take full responsibility for my learning
 - Articulate how I prefer learning, can recognize whether I am learning optimally, and can adjust the current context / approach to optimize my learning
 - Pace my learning to maximize my understanding and engagement
@@ -142,7 +142,7 @@
 - Do my very best. I prioritize my learning over everything else, and put 100% effort. I leave everything on the table to contribute to a passionate and motivated learning environment. In short, I kick my own ass, inspiring others to do the same
 
 
-## collaboration
+## Collaboration
 - Comfortably express myself clearly and concisely to my teammates
 - Recognize and respond to my teammate's state of mind and emotional center
 - Solicit and give effective feedback that is specific, actionable, and kind
