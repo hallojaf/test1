@@ -8,7 +8,7 @@
 
 #### Monday
 - am - orientation
-- pm - [Encoding / Decoding - parts 1..2](https://github.com/banana-slugs-2014/week-1-challenge-encoding-decoding)
+- pm - [Encoding / Decoding - parts 1..2](../../week-1-challenge-encoding-decoding)
 - 6p - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html) & [code style](https://github.com/airbnb/ruby)
 
 > "Simplicity is prerequisite for reliability."
