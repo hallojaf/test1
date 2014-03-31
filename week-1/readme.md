@@ -23,7 +23,8 @@
 #### Tuesday
 - 9a - lecture: data, decisions, loops and flow
 - am - Encoding / Decoding
-  - [Roman Numerals Case Study](../../../../roman-numerals-case-study)
+  - [Roman Numerals Case
+Study](../../../../roman-numerals-case-study-challenge)
 - 2p - lecture: intro to Big O notation
 - pm - Sorting & Searching
   - [overview](../../../../phase-1-guide/blob/master/week-1/discussions/sorting-searching.md)
