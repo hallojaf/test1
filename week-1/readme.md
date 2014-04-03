@@ -14,6 +14,9 @@
 - 6p - Review, refactor, read
   - [code style](https://github.com/airbnb/ruby)
   - [IRB](http://www.rubyinside.com/irb-lets-bone-up-on-the-interactive-ruby-shell-1771.html)
+  - [Combating code smells
+challenge](../../../../combating-smells-extract-method-challenge)
+  - [Jim Weirich on Roman Numerals](https://www.youtube.com/watch?v=983zk0eqYLY)
 
 > "Simplicity is prerequisite for reliability."
 >
@@ -27,7 +30,7 @@
 Study](../../../../roman-numerals-case-study-challenge)
 - 2p - lecture: intro to Big O notation
 - pm - Sorting & Searching
-  - [overview](../../../../phase-1-guide/blob/master/week-1/discussions/sorting-searching.md)
+  - [overview](discussions/sorting-searching.md)
   - [p1: dictionary sort](../../../../dictionary-sort-challenge)
   - [p2: linear search](../../../../algorithm-drill-linear-search-challenge)
   - [p3: binary search](../../../../algorithm-drill-binary-search-challenge)
@@ -54,8 +57,9 @@ Study](../../../../roman-numerals-case-study-challenge)
   - [re-overview](discussions/data-structures.md)
   - [abstract data structures](../../../../review-abstract-data-structures-challenge)
 - 6p - Review, refactor, read
-  - [Regex](../../../../phase-1-guide/blob/master/week-1/discussions/regex.md)
-  - [Iteratin vs. Recursion Challenge](../../../../)
+  - [Regex](discussions/regex.md)
+  - [Iteration vs. Recursion Challenge](../../../../recursion-vs-iteration-benchmarking-it-challenge)
+  - [Pry](http://pryrepl.org/)
   - sublime: [a](https://www.shortcutfoo.com/app/tutorial/sublimetext), [b](https://gist.github.com/lucasfais/1207002/de52babd6674d5e6234bc25a63eab5eff151c36c), [c](http://www.cheatography.com/example42/cheat-sheets/sublime-text-2-shortcuts-os-x/)
   - [git](http://pcottle.github.io/learnGitBranching/)
 
@@ -73,7 +77,7 @@ Study](../../../../roman-numerals-case-study-challenge)
   - [p3: boggle 1](../../../../boggle-1-basic-board-generation-challenge)
   - [p4: boggle 2](../../../../boggle-2-word-checker-challenge)
 - 6p - Review, refactor, read
-  - [git](http://pcottle.github.io/learnGitBranching/)
+  - [git branching](http://pcottle.github.io/learnGitBranching/)
   - Games - [Battleship](../../../../battleship-challenge)
 
 > "Testing can only prove the presence of bugs, not their absence."
@@ -83,6 +87,9 @@ Study](../../../../roman-numerals-case-study-challenge)
 #### Friday
 - 9a - planning projects
 - am - [Games - Sudoku part 1](../../../../sudoku-1-modeling-logic-challenge)
+  - [Blank Sudoku board](../resources/week-1/sudoku_board.pdf)
+  - [Sudoku
+psuedocode](https://gist.github.com/EdConnell/e3cb975d060cdeae68eb)
 - 2p - open forum
 - pm - [Games - Sudoku part 2](../../../../sudoku-2-guessing-challenge)
 - 6p - Review, refactor, read
@@ -189,8 +196,11 @@ the following are selected videos and chapters that should be maximally valuable
 #### Learning
 
 - [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY) (video)
-- Adaptive Motivation (article)
+- [Adaptive Motivation](https://www.dropbox.com/sh/ldrnf12rpx78eye/akrBAT-2gB/articles/Adaptive%20Motivation.pdf) (article)
+- get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
+- [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
+- [A New Way to Respond to "Failure" - Tales of overcoming the Superego](http://www.youtube.com/watch?v=_tjYoKCBYag)
+- [More information on Fixed vs. Growth Mindsets](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/)
+- [Bene Brown on the power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability) (video)
 - Mindset by Carol Dweck
   - read the "adaptive motivation" article above before diving into this book, it's short and will give you a good overview
-- Bene Brown on the power of vulnerability (video)
-- get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
