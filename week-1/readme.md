@@ -51,10 +51,11 @@ Study](../../../../roman-numerals-case-study-challenge)
   - [p4: linked list](../../../../data-drill-linked-list-challenge)
 - 2p - writing basic assertions, exploring data structures on [Big-O Cheat Sheet](http://bigocheatsheet.com/#data-structures)
 - pm - Data Structures
-  - [re-overview](../../../../phase-1-guide/blob/master/week-1/discussions/data-structures.md)
+  - [re-overview](discussions/data-structures.md)
   - [abstract data structures](../../../../review-abstract-data-structures-challenge)
 - 6p - Review, refactor, read
   - [Regex](../../../../phase-1-guide/blob/master/week-1/discussions/regex.md)
+  - [Iteratin vs. Recursion Challenge](../../../../)
   - sublime: [a](https://www.shortcutfoo.com/app/tutorial/sublimetext), [b](https://gist.github.com/lucasfais/1207002/de52babd6674d5e6234bc25a63eab5eff151c36c), [c](http://www.cheatography.com/example42/cheat-sheets/sublime-text-2-shortcuts-os-x/)
   - [git](http://pcottle.github.io/learnGitBranching/)
 
