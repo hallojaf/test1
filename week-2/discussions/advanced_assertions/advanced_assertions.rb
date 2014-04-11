@@ -15,6 +15,28 @@ def assert_equal(actual, expected, msg = nil)
   raise msg unless actual == expected
 end
 
+# ---------- Other simple, custom assertions --------------
+# Note that the method names allow future people who use your code
+# to understand what you were testing for.
+
+def assert_empty(obj, msg = nil)
+  msg = msg || "#{obj.inspect} should be empty"
+  raise msg unless obj.empty?
+end
+
+def assert_includes(collection, item, msg = nil)
+  msg = msg || "Expected #{collection.inspect} to include #{item.inspect}"
+  raise msg unless collection.include?(item)
+end
+
+def assert_class(obj, type, msg = nil)
+  msg = msg || "#{obj.inspect} is not a #{type}"
+  raise msg unless obj.is_a? type
+end
+
+# Do you understand what the previous tests do? Write some example methods
+# and passing tests for them. Check it in your console. Go ahead, I'll wait.
+
 # ---------- assert_raise ---------------------------------
 
 # beginner version
@@ -49,14 +71,20 @@ end
 
 
 
-# contrived example method
+# contrived example methods
 def add_three_or_more(*args)
   raise ArgumentError if args.length < 3
   args.inject(:+)
 end
 
+def hello name
+  raise TypeError.new("name must be a string") unless name.is_a? String
+  "hello #{name}"
+end
+
 # sample passing assert_raise test
 assert_raise(ArgumentError, proc{ add_three_or_more(1, 2)})
+assert_raise(TypeError, lambda{ hello(1) })
 
 # ---------- assert_change ---------------------------------
 
