@@ -1,6 +1,8 @@
-# Resource Links
+# Week 1 Resource Links
 
-These resources are also linked from individual challenges.  If you find a resource that is missing, or one that is here but not useful, submit a pull request or an issue on github.  If you find yourself wanting to email a cool link to your cohort - check if it is here first and if not, add it!
+These are some links to potentially useful resources.  There is more information in the files in this folder.
+
+If you find a resource that is missing, or one that is here but not useful, submit a pull request or an issue on github.  If you find yourself wanting to email a cool link to your cohort - check if it is here first and if not, add it!
 
 ## Ruby
 
@@ -77,7 +79,7 @@ Better?](week-1/cornell_cs211_spring-98_07-recursion.pdf)
 - [Tanner's Regular Expressions Notes](https://gist.github.com/openspectrum/395b89258d2234762b63)
 - [Mike's Regular Expression
 talk](http://talks.devbootcamp.com/pattern-matching-with-regular-expressions)
-- [Developing an Intuition for Regex](../discussions/regex.md)
+- [Developing an Intuition for Regex](regex.md)
 - [Rubular for testing ruby-style regex online](http://rubular.com/)
 - [Onigurama - Regular Expressions](http://www.geocities.jp/kosako3/oniguruma/doc/RE.txt)
 - [The String#=~ method (the one that matches regexes)](http://www.ruby-doc.org/core-1.9.3/String.html#method-i-3D-7E)
@@ -85,16 +87,6 @@ talk](http://talks.devbootcamp.com/pattern-matching-with-regular-expressions)
 - [Regex Examples](http://www.regular-expressions.info/examples.html)
 - [Regexper: Visualizing Regex](http://www.regexper.com/)
 
-### OO
-
-- [SOLID by UncleBob](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod)
-- [SOLID object oriented design](http://en.wikipedia.org/wiki/SOLID_(object-oriented_design))
-- [memoization](http://en.wikipedia.org/wiki/Memoization)
-- [blind men and an elephant](http://en.wikipedia.org/wiki/Blind_men_and_an_elephant)
-
-###Useful Gems
-
-- [Nokogiri for parsing HTML (and other stuff)](http://nokogiri.org/)
 
 
 ## Computer Sciency Stuff
@@ -147,7 +139,7 @@ Slides](http://girldevelopit.com/assets/github/index.html#/), use arrow keys to 
 
 ## Testing and Debugging
 - [Debugging](week-1/debugging.md)
-- [Debugging example code](../discussions/debugger.rb)
+- [Debugging example code](debugger.rb)
 - [RubyDoc Benchmarking](http://www.ruby-doc.org/stdlib-1.9.3/libdoc/benchmark/rdoc/Benchmark.html)
 - [Mike's Debugging Talk](http://talks.devbootcamp.com/debugging)
 - [pry](http://pryrepl.org/)
@@ -155,19 +147,12 @@ Slides](http://girldevelopit.com/assets/github/index.html#/), use arrow keys to 
 ## Learning Methodologies
 
 - [Deliberate Practice](http://www.farnamstreetblog.com/2012/07/what-is-deliberate-practice/)
-- [How People Learn](http://www.farnamstreetblog.com/2013/01/how-people-learn/)
-- [Mental Models](http://www.farnamstreetblog.com/mental-models/)
+
 
 ## Engineering Empathy
 
 - [How to fake courage](http://blog.42floors.com/fake-courage/#.Ujnq1GRARq6)
 - tribes we lead, seth godin [TED talk](http://www.ted.com/talks/seth_godin_on_the_tribes_we_lead.html), [community guide](http://sethgodin.typepad.com/seths_blog/files/TribesQA2.pdf)
-- [Expose your
-ignorance](http://chimera.labs.oreilly.com/books/1234000001813/ch02.html#expose_your_ignorance)
-from [Apprenticeship
-Patterns](http://chimera.labs.oreilly.com/books/1234000001813/index.html)
-
-## More (needs to be organized)
 
 
 

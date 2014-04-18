@@ -57,3 +57,5 @@ Whatever you want! Open Source is [fun, experimental, and playful](https://speak
 
 We know how to parse HTML and XML using [Nokogiri](https://github.com/sparklemotion/nokogiri)
 
+Use [Ruby Toolbox](http://ruby-toolbox.com) to find other gems.
+
