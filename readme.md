@@ -1,3 +1,6 @@
+Please refer to the [Student Handbook](https://github.com/Devbootcamp/student-handbook) for all DBC policies and expectations.
+
+
 ### what are we doing?
 
 - week 1

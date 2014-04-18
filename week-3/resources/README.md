@@ -6,11 +6,19 @@ These are some links to potentially useful resources.  There is more information
 If you find a resource that is missing, or one that is here but not useful, submit a pull request or an issue on github.  If you find yourself wanting to email a cool link to your cohort - check if it is here first and if not, add it!
 
 
-###Useful Gems
+###Useful Gems & APIs
 
-- [Nokogiri for parsing HTML (and other stuff)](http://nokogiri.org/)
+- [Ruby Toolbox](http://www.ruby-toolbox.com) for finding gems
+- [Nokogiri](http://nokogiri.org/) for parsing HTML (and other stuff)]
+
+
+- [NYC Open Data APIs](https://nycopendata.socrata.com/)
+- [Donor's Choose API](http://data.donorschoose.org/)
+- [Twilio API](https://www.twilio.com/docs/api/rest) for texting
+- [Twitter API](https://dev.twitter.com/)
 
 ## Open Source
+Open Source is [fun, experimental, and playful](https://speakerdeck.com/holman/open-source-misfeasance)
 
 - [Open Source Licensing](http://www.slideshare.net/CodeMontage/writespeakcode-open-source-licenses)
 
