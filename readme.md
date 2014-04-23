@@ -1,3 +1,6 @@
+Please refer to the [Student Handbook](https://github.com/Devbootcamp/student-handbook) for all DBC policies and expectations.
+
+
 ### what are we doing?
 
 - week 1
@@ -139,3 +142,5 @@ here's the one we'll be using in phase 1: [how-to-submit](how-to-submit.md)
 #### policies
 
 Please familarize yourself with [DBC Policies](dbc-policies/)
+
+[NYC Events Calendar](http://www.google.com/calendar/embed?src=devbootcamp.com_ium1vgtodjeckf102tn0hg4nas%40group.calendar.google.com&ctz=America/New_York )
