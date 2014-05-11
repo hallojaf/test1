@@ -1,10 +1,10 @@
-## week 1
+## Week 1
 
 > “Debugging is twice as hard as writing the code in the first place. Therefore, if you write the code as cleverly as possible, you are, by definition, not smart enough to debug it.”
 >
 > -- [Brian Kernighan](http://en.wikipedia.org/wiki/Brian_Kernighan)
 
-### schedule
+### Schedule
 
 #### Monday
 - am - orientation
@@ -99,74 +99,77 @@ psuedocode](https://gist.github.com/EdConnell/e3cb975d060cdeae68eb)
 > -- [Donald Knuth](http://en.wikipedia.org/wiki/Donald_Knuth)
 
 #### Weekend
-- review week 1
-- work on your [fundamentals!](../../../../phase-1-guide/tree/master/week-1/discussions)
-  - that means READ EVERY FILE at the link above.  it's what's good for you.
-  - it's even better if you PRACTICE ALL THE THINGS there.  also good for you.
-  - it's even better still if you TEACH OTHERS WHAT YOU LEARNED afterwards.  
-  - i'm not YELLING, i'm just ENTHUSIASTIC!
-- twist your brain with a few [Brain Teasers](../../../../week-1-challenge-brain-teasers)
-- try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
-- get some fresh air and relax, life is good
-- plan and prep for week 2
+- Review week 1
+- Work on your [fundamentals!](../../../../phase-1-guide/tree/master/week-1/discussions)
+  - That means READ EVERY FILE at the link above.  it's what's good for you.
+  - It's even better if you PRACTICE ALL THE THINGS there.  also good for you.
+  - It's even better still if you TEACH OTHERS WHAT YOU LEARNED afterwards.  
+  - I'm not YELLING, i'm just ENTHUSIASTIC!
+- Twist your brain with a few [Brain Teasers](../../../../week-1-challenge-brain-teasers)
+- Try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
+- Get some fresh air and relax, life is good
+- Plan and prep for week 2
 
 > "Object-oriented programming is an exceptionally bad idea which could only have originated in California."
 >
 > -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
-### themes
+### Themes
 
 **learning: understanding our learning selves**
-- learning signals
-- conscious learning
-- stories of learning
-- effective reading
+
+- Learning signals
+- Conscious learning
+- Stories of learning
+- Effective reading
 
 **technology: focus on self expression through code**
-- pseudocode and diagraming
-- data, decisions, loops, flow
-- implementing algorithms
-- measuring code performance
-- writing assertions
+
+- Pseudocode and diagraming
+- Data, decisions, loops, flow
+- Implementing algorithms
+- Measuring code performance
+- Writing assertions
 
 **craftsmanship: focus on tools**
-- effective searching
-- the command line & REPL
-- working with sublime
-- working with git / github
-- using the debugger gem
 
-### discussions
+- Effective searching
+- The command line & REPL
+- Working with sublime
+- Working with git / github
+- Using the debugger gem
 
-- data, decisions, loops and flow
-- understanding and using variable scoping
-- reading errors and effective debugging
-- advanced Ruby syntax and idioms
-- brief introduction to algorithmic analysis and Big-O notation
+### Discussions
 
-### reading
+- Data, decisions, loops and flow
+- Understanding and using variable scoping
+- Reading errors and effective debugging
+- Advanced Ruby syntax and idioms
+- Brief introduction to algorithmic analysis and Big-O notation
+
+### Reading
 
 [link to dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
 hints for speed:
 
-- when reading
-  - evaluate the book (authors, amazon reviews, etc)
-  - scan the TOC for items of interest and general awareness
-  - seek out and surf your curiosity
-  - go for breadth over depth first, then commit to depth when value is obvious
-  - assuming you find value, take high level notes and include text snippets and page numbers to help you revisit
-- when watching videos
-  - evaluate the video (authors, reviews, comments, views)
-  - scan a TOC (if available) for items of interest and general awareness
-  - look for speed controls (try 1.5x or 2x speed)
-  - assuming you find value, take high level notes and include video timing to help you revisit
+- When reading
+  - Evaluate the book (authors, amazon reviews, etc)
+  - Scan the TOC for items of interest and general awareness
+  - Seek out and surf your curiosity
+  - Go for breadth over depth first, then commit to depth when value is obvious
+  - Assuming you find value, take high level notes and include text snippets and page numbers to help you revisit
+- When watching videos
+  - Evaluate the video (authors, reviews, comments, views)
+  - Scan a TOC (if available) for items of interest and general awareness
+  - Look for speed controls (try 1.5x or 2x speed)
+  - Assuming you find value, take high level notes and include video timing to help you revisit
 
 
 #### Ruby
 
 - Eloquent Ruby
-  - read part I (there are several chapters in part I)
+  - Read part I (there are several chapters in part I)
 - The Well Grounded Rubyist
 - Practical Object Oriented Design in Ruby
 - Confident Ruby
@@ -185,10 +188,10 @@ the following are selected videos and chapters that should be maximally valuable
   - [guiding principles for analysis of algorithms (15 mins) ](https://class.coursera.org/algo-004/lecture/4)
   - [intro to data structures (5 mins)](https://class.coursera.org/algo-004/lecture/61)
 - Algorithm Design Manual
-  - read chapter 2, especially sections 2.2 and 2.3, and focus your energy on making sense of figures 2.3 and 2.4 to build an intuition for Big O notation
-  - scan chapters 3 and 4 to develop context for data structures, sorting and searching
-  - the intro chapter also has a couple of good stories
-  - and of course you'll scan the entire TOC, right?
+  - Read chapter 2, especially sections 2.2 and 2.3, and focus your energy on making sense of figures 2.3 and 2.4 to build an intuition for Big O notation
+  - Scan chapters 3 and 4 to develop context for data structures, sorting and searching
+  - The intro chapter also has a couple of good stories
+  - And of course you'll scan the entire TOC, right?
   - [link to supplemental videos and slides](http://www.cs.sunysb.edu/~algorith/video-lectures/)
   - [solutions to selected problems](http://nbl.cewit.stonybrook.edu:60128/mediawiki/index.php/The_Algorithms_Design_Manual_%28Second_Edition%29)
 - Algorithms in a Nutshell
@@ -197,10 +200,10 @@ the following are selected videos and chapters that should be maximally valuable
 
 - [Effect of Praise on Mindset](http://www.youtube.com/watch?v=TTXrV0_3UjY) (video)
 - [Adaptive Motivation](https://www.dropbox.com/sh/ldrnf12rpx78eye/akrBAT-2gB/articles/Adaptive%20Motivation.pdf) (article)
-- get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
+- Get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
 - [Phillip Goldin on Distorted Views of the Self](http://www.youtube.com/watch?v=bKtBxxR0JRM#t=1243) (around 20:40)
 - [A New Way to Respond to "Failure" - Tales of overcoming the Superego](http://www.youtube.com/watch?v=_tjYoKCBYag)
 - [More information on Fixed vs. Growth Mindsets](http://michaelgr.com/2007/04/15/fixed-mindset-vs-growth-mindset-which-one-are-you/)
 - [Bene Brown on the power of vulnerability](http://www.ted.com/talks/brene_brown_on_vulnerability) (video)
 - Mindset by Carol Dweck
-  - read the "adaptive motivation" article above before diving into this book, it's short and will give you a good overview
+  - Read the "adaptive motivation" article above before diving into this book, it's short and will give you a good overview

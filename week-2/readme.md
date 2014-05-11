@@ -1,4 +1,4 @@
-## week 2
+## Week 2
 
 > About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.
 >
@@ -110,49 +110,52 @@
 > -- Alan Kay
 
 #### Weekend
-- review week 2
-- work on your fundamentals!
-- try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
-- get some fresh air and relax, life is good
-- plan and prep for week 3
+- Review week 2
+- Work on your fundamentals!
+- Try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
+- Get some fresh air and relax, life is good
+- Plan and prep for week 3
 
 > Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 >
 > -- Donald Knuth
 
-### themes
+### Themes
 
 **learning: optimizing your learning**
-- reflecting on your learning
-- finding your limits
-- obstacles to learning
-- exploring new modes
+
+- Reflecting on your learning
+- Finding your limits
+- Obstacles to learning
+- Exploring new modes
 
 **technology: managing complexity**
-- advanced ruby
-- more code performance
-- object oriented programming
-- relational / non-relational data
-- advanced testing
-- test driven development intro
+
+- Advanced ruby
+- More code performance
+- Object oriented programming
+- Relational / non-relational data
+- Advanced testing
+- Test driven development intro
 
 **craftsmanship: focus on quality**
-- abstraction and modularization
-- writing maintainable code
-- refactoring code
-- participating in code reviews
-- community awareness
+
+- Abstraction and modularization
+- Writing maintainable code
+- Refactoring code
+- Participating in code reviews
+- Community awareness
 
 
-### discussions
+### Discussions
 
-- advanced ruby
-- managing complexity
-- testing your code
-- introduction to relational and non-relational databases
+- Advanced ruby
+- Managing complexity
+- Testing your code
+- Introduction to relational and non-relational databases
 
 
-### reading
+### Reading
 
 [dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
@@ -176,4 +179,4 @@
 - [Alan Kay on Learning](http://www.youtube.com/watch?v=50L44hEtVos)
 - On Intelligence
 - Bene Brown on the power of vulnerability (video)
-- get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
+- Get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
