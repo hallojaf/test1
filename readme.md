@@ -1,145 +1,145 @@
 Please refer to the [Student Handbook](https://github.com/Devbootcamp/student-handbook) for all DBC policies and expectations.
 
 
-### what are we doing?
+### What are we doing?
 
-- week 1
-  - [schedule](week-1)
-  - [reading](week-1#reading)
-- week 2
-  - [schedule](week-2)
-  - [reading](week-2#reading)
-- week 3
-  - [schedule](week-3)
-  - [reading](week-3#reading)
+- Week 1
+  - [Schedule](week-1)
+  - [Reading](week-1#reading)
+- Week 2
+  - [Schedule](week-2)
+  - [Reading](week-2#reading)
+- Week 3
+  - [Schedule](week-3)
+  - [Reading](week-3#reading)
 
-### who can i ask for help?
+### Who can I ask for help?
 
-- anyone!  
-  - ask any other student, alumni or any of the teachers any question, any time.
+- Anyone!  
+  - Ask any other student, alumni or any of the teachers any question, any time.
 
-- online!
-  - stackoverflow has human beings that answer questions, try it sometime
-  - github repos for gems or other projects have real people behind them
-
-
-### what should i be working on?
-
-#### learning! always.
-
-- watching [recorded talks by DBC teachers](http://talks.devbootcamp.com) on topics of interest (just login with your Socrates account)
-- signup for a [1 month free trial of Ruby Tapas](https://rubytapas.dpdcart.com/subscriber/add?plan_id=10&plan_term_id=117) (you can thank [Avdi Grimm](http://about.avdi.org) for the free trial for DBC students
-- reading [some of the many books](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx) recommended for phase 1
-- writing and sharing what you're learning with others
-- planning your work for today, tomorrow and next week
+- Online!
+  - Stackoverflow has human beings that answer questions, try it sometime
+  - Github repos for gems or other projects have real people behind them
 
 
-#### weekly schedule
+### What should I be working on?
 
-see `readme.md` in each of the folders in this repo labeled `week-1`, `week-2`, and `week-3`
+#### Learning! Always.
+
+- Watching [recorded talks by DBC teachers](http://talks.devbootcamp.com) on topics of interest (just login with your Socrates account)
+- Signup for a [1 month free trial of Ruby Tapas](https://rubytapas.dpdcart.com/subscriber/add?plan_id=10&plan_term_id=117) (you can thank [Avdi Grimm](http://about.avdi.org) for the free trial for DBC students
+- Reading [some of the many books](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx) recommended for phase 1
+- Writing and sharing what you're learning with others
+- Planning your work for today, tomorrow and next week
 
 
-#### a typical day
+#### Weekly schedule
+
+See `readme.md` in each of the folders in this repo labeled `week-1`, `week-2`, and `week-3`
+
+
+#### A typical day
 
 ```text
 AM
-  8:45  accountability buddy meeting
-  9:00  announcements
-  9:05  aha! moments
-  9:20  daily direction
-  9:30  booster session (optional)
- 10:00  morning activity
+  8:45  Accountability buddy meeting
+  9:00  Announcements
+  9:05  Aha! moments
+  9:20  Daily direction
+  9:30  Booster session (optional)
+ 10:00  Morning activity
 
 PM
   1:00 - 2:00 LUNCH
-  2:00  reading hour / geek talk
-  3:00  afternoon activity
-  6:00  end of day
+  2:00  Reading hour / geek talk
+  3:00  Afternoon activity
+  6:00  End of day
 
 
-== notes / exceptions ==
+== Notes / Exceptions ==
 
 - Wednesdays are solo days, choose your own pair or work alone
 ```
 
-#### in general for this phase
+#### In general for this phase
 
-- planning, programming, reading, writing and speaking
-- learning, technology and craftsmanship
-
-
-### what should i be learning?
-
-#### learning competencies:
-- [full list](learning-competencies.md)
-
-#### learning goals:
-- [week 1](week-1/learning-goals.md)
-- [week 2](week-2/learning-goals.md)
-- [week 3](week-3/learning-goals.md)
+- Planning, programming, reading, writing and speaking
+- Learning, technology and craftsmanship
 
 
-### what is our working agreement?
+### What should I be learning?
 
-- we meet every morning at 9 am sharp (except Fridays for check-ins)
-- we suggest that our top priorities for this phase be to:
-  - learn how to respond and communicate appropriately (re: error messages, challenges, self talk)
-  - seek opportunities to help each other, grow stronger as individuals and grow closer as a tribe
-  - learn how to express our ideas using software by reading and writing code and speaking to others about it
-  - learn how to optimize our own learning
+#### Learning competencies:
+- [Full list](learning-competencies.md)
+
+#### Learning goals:
+- [Week 1](week-1/learning-goals.md)
+- [Week 2](week-2/learning-goals.md)
+- [Week 3](week-3/learning-goals.md)
+
+
+### What is our working agreement?
+
+- We meet every morning at 9 am sharp (except Fridays for check-ins)
+- We suggest that our top priorities for this phase be to:
+  - Learn how to respond and communicate appropriately (re: error messages, challenges, self talk)
+  - Seek opportunities to help each other, grow stronger as individuals and grow closer as a tribe
+  - Learn how to express our ideas using software by reading and writing code and speaking to others about it
+  - Learn how to optimize our own learning
 
 *we can modify this working agreement as we move along*
 
-### how can i pair well with others?
+### How can I pair well with others?
 
 consider the following recommended steps to get your pairing session off to a good start:
 
 ![establish a working agreement](http://f.cl.ly/items/0F2v1l1u1k2w2K290u35/Screen%20Shot%202014-01-27%20at%205.31.34%20PM.png "working agreements make pairing easy")
 
 
-### what does our git workflow look like?
+### What does our git workflow look like?
 
 [there](http://nvie.com/posts/a-successful-git-branching-model/) [are](https://www.atlassian.com/git/workflows) [many](http://scottchacon.com/2011/08/31/github-flow.html) [different](http://git-scm.com/book/en/Distributed-Git-Distributed-Workflows) [workflows](http://randyfay.com/content/rebase-workflow-git) [available](http://stackoverflow.com/a/2429011/2836874) for you to consider when using git.  did you notice how many different links there were in the previous sentence?
 
 here's the one we'll be using in phase 1: [how-to-submit](how-to-submit.md)
 
 
-### what else should i be aware of?
+### What else should I be aware of?
 
-#### group awareness
+#### Group awareness
 
-- new pairs every day x 3 weeks
-  - it's ok to split up, but timebox it!
-- establish working agreements early
-  - check-in with each other
-  - set expectations of your working style
-  - agree on measures of success
-  - agree on logistics and communications
-  - agree on a plan of action
+- New pairs every day x 3 weeks
+  - It's ok to split up, but timebox it!
+- Establish working agreements early
+  - Check-in with each other
+  - Set expectations of your working style
+  - Agree on measures of success
+  - Agree on logistics and communications
+  - Agree on a plan of action
 
-#### self awareness
+#### Self awareness
 
-- mindset
-- learning signals
-  - confusion
-  - shame
-  - grit
-- mental models
-- biases
+- Mindset
+- Learning signals
+  - Confusion
+  - Shame
+  - Grit
+- Mental models
+- Biases
 
-#### progress awareness
+#### Progress awareness
 
-- establish a definition of done
-- set goals and make estimates
-  - measure goals and verify estimates
-  - always make a time estimate
-  - always gauge relative importance
-- log everything you think you will want to measure later
-  - your confusion
-  - your learning
-  - your accomplishments
+- Establish a definition of done
+- Set goals and make estimates
+  - Measure goals and verify estimates
+  - Always make a time estimate
+  - Always gauge relative importance
+- Log everything you think you will want to measure later
+  - Your confusion
+  - Your learning
+  - Your accomplishments
 
-#### policies
+#### Policies
 
 Please familarize yourself with [DBC Policies](dbc-policies/)
 
