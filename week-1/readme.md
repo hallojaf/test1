@@ -30,7 +30,7 @@ challenge](../../../../combating-smells-extract-method-challenge)
 Study](../../../../roman-numerals-case-study-challenge)
 - 2p - lecture: intro to Big O notation
 - pm - Sorting & Searching
-  - [overview](discussions/sorting-searching.md)
+  - [overview](resources/sorting-searching.md)
   - [p1: dictionary sort](../../../../dictionary-sort-challenge)
   - [p2: linear search](../../../../algorithm-drill-linear-search-challenge)
   - [p3: binary search](../../../../algorithm-drill-binary-search-challenge)
