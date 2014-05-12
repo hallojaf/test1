@@ -103,6 +103,8 @@ consider the following recommended steps to get your pairing session off to a go
 
 here's the one we'll be using in phase 1: [how-to-submit](how-to-submit.md)
 
+![dbc phase 1 git workflow](http://f.cl.ly/items/2G3j3O2X1a1I09432b1q/Screen%20Shot%202014-01-27%20at%205.36.27%20PM.png "git workflow for phase 1")
+
 
 ### What else should I be aware of?
 
