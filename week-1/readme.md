@@ -31,11 +31,10 @@ Study](../../../../roman-numerals-case-study-challenge)
 - 2p - lecture: intro to Big O notation
 - pm - Sorting & Searching
   - [overview](resources/sorting-searching.md)
-  - [p1: dictionary sort](../../../../dictionary-sort-challenge)
-  - [p2: linear search](../../../../algorithm-drill-linear-search-challenge)
-  - [p3: binary search](../../../../algorithm-drill-binary-search-challenge)
-  - [p4: binary vs. linear search](../../../../binary-vs-linear-searching-challenge)
-  - [p5: sort yourself](../../../../sort-yourself-challenge)
+  - [p1: linear search](../../../../algorithm-drill-linear-search-challenge)
+  - [p2: binary search](../../../../algorithm-drill-binary-search-challenge)
+  - [p3: sort yourself](../../../../sort-yourself-challenge)
+  - [p4: benchmarking binary vs. linear](../../../../binary-vs-linear-searching-challenge)
 - 6p - Review, refactor, read
   - sublime: [a](https://www.shortcutfoo.com/app/tutorial/sublimetext), [b](https://gist.github.com/lucasfais/1207002/de52babd6674d5e6234bc25a63eab5eff151c36c), [c](http://www.cheatography.com/example42/cheat-sheets/sublime-text-2-shortcuts-os-x/)
   - [git](http://pcottle.github.io/learnGitBranching/)
