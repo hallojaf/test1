@@ -24,7 +24,8 @@ challenge](../../../../combating-smells-extract-method-challenge)
 
 
 #### Tuesday
-- 9a - [Enacting Enumerables](resources/enacting_enumerables.md)
+- 9am - yoga
+- 10am - [Enacting Enumerables](resources/enacting_enumerables.md)
 - am - Encoding / Decoding
   - [Roman Numerals Case
 Study](../../../../roman-numerals-case-study-challenge)
@@ -44,7 +45,7 @@ Study](../../../../roman-numerals-case-study-challenge)
 > -- [Eric S. Raymond](http://en.wikipedia.org/wiki/Eric_S._Raymond)
 
 #### Wednesday (Solo Optional)
-- 9a - intro to data structures, intro to debugger gem
+- 9am - intro to data structures, intro to debugger gem
 - am - Data Structures
   - [overview](../../../../phase-1-guide/blob/master/week-1/discussions/data-structures.md)
   - [p1: nested arrays](../../../../data-drill-nested-arrays-challenge)
@@ -67,7 +68,8 @@ Study](../../../../roman-numerals-case-study-challenge)
 > -- [Fred Brooks](http://en.wikipedia.org/wiki/Fred_Brooks)
 
 #### Thursday
-- 9a - approach to games
+- 9am - yoga
+- 10am - approach to games
 - am - Games - Intro
   - [p1: pig latin](../../../../pig-latin-challenge)
   - [p2: ruby racer](../../../../ruby-racer-1-outrageous-fortune-challenge)
@@ -84,7 +86,7 @@ Study](../../../../roman-numerals-case-study-challenge)
 > -- [Edsger Dijkstra](http://en.wikipedia.org/wiki/Edsger_W._Dijkstra)
 
 #### Friday
-- 9a - planning projects
+- 9am - planning projects
 - am - [Games - Sudoku part 1](../../../../sudoku-1-modeling-logic-challenge)
   - [Blank Sudoku board](../resources/week-1/sudoku_board.pdf)
   - [Sudoku
