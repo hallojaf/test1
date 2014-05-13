@@ -24,7 +24,7 @@ challenge](../../../../combating-smells-extract-method-challenge)
 
 
 #### Tuesday
-- 9a - lecture: data, decisions, loops and flow
+- 9a - [Enacting Enumerables](resources/enacting_enumerables.md)
 - am - Encoding / Decoding
   - [Roman Numerals Case
 Study](../../../../roman-numerals-case-study-challenge)
