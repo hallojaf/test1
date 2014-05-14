@@ -47,17 +47,17 @@ Study](../../../../roman-numerals-case-study-challenge)
 #### Wednesday (Solo Optional)
 - 9am - intro to data structures, intro to debugger gem
 - am - Data Structures
-  - [overview](../../../../phase-1-guide/blob/master/week-1/discussions/data-structures.md)
+  - [overview](resources/data-structures.md)
   - [p1: nested arrays](../../../../data-drill-nested-arrays-challenge)
   - [p2: nested arrays 2](../../../../nested-arrays-2-ruby-for-conversion-and-seeding-challenge)
   - [p3: stack and queue](../../../../data-drill-stack-and-queue-challenge)
   - [p4: linked list](../../../../data-drill-linked-list-challenge)
 - 2p - writing basic assertions, exploring data structures on [Big-O Cheat Sheet](http://bigocheatsheet.com/#data-structures)
 - pm - Data Structures
-  - [re-overview](discussions/data-structures.md)
+  - [re-overview](resources/data-structures.md)
   - [abstract data structures](../../../../review-abstract-data-structures-challenge)
 - 6p - Review, refactor, read
-  - [Regex](discussions/regex.md)
+  - [Regex](resources/regex.md)
   - [Iteration vs. Recursion Challenge](../../../../recursion-vs-iteration-benchmarking-it-challenge)
   - [Pry](http://pryrepl.org/)
   - sublime: [a](https://www.shortcutfoo.com/app/tutorial/sublimetext), [b](https://gist.github.com/lucasfais/1207002/de52babd6674d5e6234bc25a63eab5eff151c36c), [c](http://www.cheatography.com/example42/cheat-sheets/sublime-text-2-shortcuts-os-x/)
