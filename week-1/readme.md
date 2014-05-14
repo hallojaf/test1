@@ -101,13 +101,13 @@ psuedocode](https://gist.github.com/EdConnell/e3cb975d060cdeae68eb)
 
 #### Weekend
 - Review week 1
-- Work on your [fundamentals!](../../../../phase-1-guide/tree/master/week-1/discussions)
+- Work on your [fundamentals!](../../../../phase-1-guide/tree/nyc/week-1/resources)
   - That means READ EVERY FILE at the link above.  it's what's good for you.
   - It's even better if you PRACTICE ALL THE THINGS there.  also good for you.
   - It's even better still if you TEACH OTHERS WHAT YOU LEARNED afterwards.  
   - I'm not YELLING, i'm just ENTHUSIASTIC!
 - Twist your brain with a few [Brain Teasers](../../../../week-1-challenge-brain-teasers)
-- Try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
+- Try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/sh/agx68gxhydvcgi1/sem-iuCPxI)
 - Get some fresh air and relax, life is good
 - Plan and prep for week 2
 
