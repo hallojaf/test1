@@ -9,7 +9,7 @@
  _____
  
 ### Groups for Week 3
-**Mordor:** Ian Greenough, Natalie Baer, Timothy McClung, Richard Macias, John P Quigley, Jason Matney
-**Narnia:** Gregory Knudsen, Kai Prout, Kennedy Bhagwandeen, Jessica Tatham, Joseph Cohen, Lasse Sviland
-**Hogwartz:** Danielle Adams, Ken Sin, Chantelle Turnbull, Victor Schaeperkoetter, Hallo Jaf, Kevin Zhou
-**Endor:** Judy Jow, Raghav Malik, Jake Huhn, Dinesh Rai, David Kerr
+**Mordor:** Ian Greenough, Natalie Baer, Timothy McClung, Richard Macias, John P Quigley, Jason Matney  
+**Narnia:** Gregory Knudsen, Kai Prout, Kennedy Bhagwandeen, Jessica Tatham, Joseph Cohen, Lasse Sviland  
+**Hogwartz:** Danielle Adams, Ken Sin, Chantelle Turnbull, Victor Schaeperkoetter, Hallo Jaf, Kevin Zhou  
+**Endor:** Judy Jow, Raghav Malik, Jake Huhn, Dinesh Rai, David Kerr  
