@@ -4,7 +4,6 @@
 >
 > -- Edsger W. Dijkstra
 
-
 #### Monday
 - 9a - orientation to week 2, setting priorities and expectations
 - am - Advanced Ruby
