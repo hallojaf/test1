@@ -21,11 +21,11 @@
   - p6: [Factorial](../../../../algorithm-drill-factorial-challenge): math is fun. really.
   - p7: [Calculating subsets with recursion](../../../../calculating-subsets-with-recursion-challenge): solve a tricky problem
   - p8: [Simple benchmarking with blocks](../../../../simple-benchmarking-with-blocks-challenge): learn to make your own benchmark
-  - p9: [Exploring more advanced ruby](../../../../phase-1-guide/blob/master/week-2/discussions/exploring-advanced-ruby.md): series of videos and a book
-  - p10: [Review regex](../../../../phase-1-guide/blob/master/week-1/discussions/regex.md)
+  - p9: [Exploring more advanced ruby](../../../../phase-1-guide/blob/nyc/week-2/resources/exploring-advanced-ruby.md): series of videos and a book
+  - p10: [Review regex](../../../../phase-1-guide/blob/nyc/week-1/resources/regex.md)
 - 2p - ruby booster
 - pm - OOP Foundations
-  - read the [introduction](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-oo.md)
+  - read the [introduction](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-oo.md)
   - p1: [public vs private interfaces](../../../../design-drill-public-vs-private-interfaces-challenge): the interface is the contract
   - p2: [argument order dependency](../../../../design-drill-argument-order-dependency-challenge): fewer dependencies is always better
   - p3: [the self keyword](../../../../ruby-drill-the-self-keyword-challenge): to thine own self be true
@@ -43,14 +43,14 @@
 #### Tuesday
 - 9a - OOP level set
 - am - Building Applications - toys
-  - p1: [make the tests pass](../../../../phase-1-guide/blob/master/week-2/discussions/test-driven-development.rb)
+  - p1: [make the tests pass](../../../../phase-1-guide/blob/nyc/week-2/resources/test-driven-development.rb)
   - p2: [cookies and ovens](../../../../cookies-and-ovens-challenge)
   - p3: [orange trees 1](../../../../orange-tree-1-just-oranges-challenge)
   - p4: [orange tree 2](../../../../orange-tree-2-groves-challenge)
   - p5: [worlds dumbest browser](../../../../world-s-dumbest-browser-challenge)
 - 2p - intro to applications, mvc & mvvp
 - pm - Building Applications - basic  
-  - [intro to applications](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-applications.md)  
+  - [intro to applications](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-applications.md)  
   - [hospital interface](../../../../hospital-interface-challenge)  
 - 6p - Review, refactor, read
   - [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)
@@ -81,14 +81,14 @@
 #### Thursday
 - 9a - intro to database design & application design booster
 - am - Databases - foundations
-  - [introduction part 1](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-data-modeling.md)
+  - [introduction part 1](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-data-modeling.md)
   - [1:1](../../../../database-drill-one-to-one-schema-challenge)
   - [1:M](../../../../database-drill-one-to-many-schema-challenge)
   - [M:M](../../../../database-drill-many-to-many-schema-challenge)
   - [make it real](../../../../many-to-many-schema-to-database-challenge)
 - 2p - more on schema design 
 - pm - Databases - basic modeling
-  - [introduction part 2](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-data-modeling-2.md)
+  - [introduction part 2](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-data-modeling-2.md)
   - [design a student roster](../../../../database-drill-student-roster-challenge)
   - [design a forum](../../../../forum-database-design-challenge)
   - [design a family tree](../../../../family-tree-database-design-challenge)
@@ -106,9 +106,9 @@
 
 #### Friday
 - 9a - building persistent applications
-- am - [Team Project](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-team-projects.md)
+- am - [Team Project](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-team-projects.md)
 - 2p - teachers as consultants
-- pm - [Team Project](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-team-projects.md)
+- pm - [Team Project](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-team-projects.md)
 - 6p - Review, refactor, read
 
 > A change in perspective is worth 80 IQ points.
