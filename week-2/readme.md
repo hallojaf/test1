@@ -4,6 +4,12 @@
 >
 > -- Edsger W. Dijkstra
 
+### Groups
+- **Rapier:** Kevin Zhou, Victor Schaeperkoetter, Dinesh Rai, Raghav Malik, Kennedy Bhagwandeen, Jason Matney
+- **Cutlass:** Judy Jow, Gregory Knudsen, Jessica Tatham, John P Quigley, Natalie Baer, David Kerr
+- **Katana:**  Indigo Greenough, Danielle Adams, Ken Sin, Chantelle Turnbull, Joseph Cohen, Kai Prout
+- **Longsword:** Richard Macias, Jake Huhn, Timothy McClung, Hallo Jaf, Lasse Sviland
+
 #### Monday
 - 9a - orientation to week 2, setting priorities and expectations
 - am - Advanced Ruby
@@ -15,11 +21,11 @@
   - p6: [Factorial](../../../../algorithm-drill-factorial-challenge): math is fun. really.
   - p7: [Calculating subsets with recursion](../../../../calculating-subsets-with-recursion-challenge): solve a tricky problem
   - p8: [Simple benchmarking with blocks](../../../../simple-benchmarking-with-blocks-challenge): learn to make your own benchmark
-  - p9: [Exploring more advanced ruby](../../../../phase-1-guide/blob/nyc/week-2/resources/exploring-advanced-ruby.md): series of videos and a book
-  - p10: [Review regex](../../../../phase-1-guide/blob/nyc/week-1/resources/regex.md)
+  - p9: [Exploring more advanced ruby](../../../../phase-1-guide/blob/master/week-2/discussions/exploring-advanced-ruby.md): series of videos and a book
+  - p10: [Review regex](../../../../phase-1-guide/blob/master/week-1/discussions/regex.md)
 - 2p - ruby booster
 - pm - OOP Foundations
-  - read the [introduction](../../../../phase-1-guide/blob/nyc/week-2/resource/intro-to-oo.md)
+  - read the [introduction](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-oo.md)
   - p1: [public vs private interfaces](../../../../design-drill-public-vs-private-interfaces-challenge): the interface is the contract
   - p2: [argument order dependency](../../../../design-drill-argument-order-dependency-challenge): fewer dependencies is always better
   - p3: [the self keyword](../../../../ruby-drill-the-self-keyword-challenge): to thine own self be true
