@@ -1,8 +1,9 @@
-## week 3
+## Week 3
 
 > Relational processing entails treating *whole relationships* as operands. Its primary purpose is loop-avoidance, an absolute requirement for end users to be productive at all, and a clear productivity booster for application programmers.
 >
 > -- E.F. Codd
+
 
 #### Monday
 - 9a - orientation to week 3, setting priorities and expectations

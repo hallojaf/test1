@@ -1,4 +1,4 @@
-Please refer to the [Student Handbook](https://github.com/cicadas-2014/student-handbook) for all DBC policies and expectations.
+Please refer to the [Student Handbook](../../../student-handbook) for all DBC policies and expectations.
 
 
 ### What are we doing?

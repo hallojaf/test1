@@ -4,12 +4,6 @@
 >
 > -- Edsger W. Dijkstra
 
-### Groups
-- **Rapier:** Kevin Zhou, Victor Schaeperkoetter, Dinesh Rai, Raghav Malik, Kennedy Bhagwandeen, Jason Matney
-- **Cutlass:** Judy Jow, Gregory Knudsen, Jessica Tatham, John P Quigley, Natalie Baer, David Kerr
-- **Katana:**  Indigo Greenough, Danielle Adams, Ken Sin, Chantelle Turnbull, Joseph Cohen, Kai Prout
-- **Longsword:** Richard Macias, Jake Huhn, Timothy McClung, Hallo Jaf, Lasse Sviland
-
 #### Monday
 - 9a - orientation to week 2, setting priorities and expectations
 - am - Advanced Ruby
