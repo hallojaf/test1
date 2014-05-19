@@ -65,7 +65,7 @@
 - 9a - Review/live [code](https://github.com/red-admirals-2014/mvc_refactor_example) of MVC concepts and dependency injection.
 - am - Building Applications - intermediate
   - [todos 1](../../../../ruby-todos-1-0-core-features-challenge)
-- 2p - CRUD and punk rock. [code](https://github.com/red-admirals-2014/phase-1-guide/blob/master/week-2/discussions/crud.rb)
+- 2p - CRUD and punk rock. [code](https://github.com/red-admirals-2014/phase-1-guide/blob/nyc/week-2/resources/crud.rb)
 - pm - Building Applications - intermediate
   - [flashcards 1](../../../../ruby-flashcards-1-single-deck-challenge)
 - 6p - Review, refactor, read
