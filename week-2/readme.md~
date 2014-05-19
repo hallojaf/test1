@@ -49,9 +49,15 @@
   - p4: [orange tree 2](../../../../orange-tree-2-groves-challenge)
   - p5: [worlds dumbest browser](../../../../world-s-dumbest-browser-challenge)
 - 2p - intro to applications, mvc & mvvp
+<<<<<<< HEAD
+- pm - Building Applications - basic
+  - [intro to applications](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-applications.md)
+  - [hospital interface](../../../../hospital-interface-challenge)
+=======
 - pm - Building Applications - basic  
   - [intro to applications](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-applications.md)  
   - [hospital interface](../../../../hospital-interface-challenge)  
+>>>>>>> nyc
 - 6p - Review, refactor, read
   - [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)
   - [git](http://pcottle.github.io/learnGitBranching/)
@@ -86,9 +92,15 @@
   - [1:M](../../../../database-drill-one-to-many-schema-challenge)
   - [M:M](../../../../database-drill-many-to-many-schema-challenge)
   - [make it real](../../../../many-to-many-schema-to-database-challenge)
+<<<<<<< HEAD
+- 2p - more on schema design
+- pm - [Advanced Assertions](https://github.com/red-admirals-2014/advanced-assertions-lecture)
+  - [introduction part 2](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-data-modeling-2.md)
+=======
 - 2p - more on schema design 
 - pm - Databases - basic modeling
   - [introduction part 2](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-data-modeling-2.md)
+>>>>>>> nyc
   - [design a student roster](../../../../database-drill-student-roster-challenge)
   - [design a forum](../../../../forum-database-design-challenge)
   - [design a family tree](../../../../family-tree-database-design-challenge)
@@ -108,8 +120,12 @@
 - 9a - building persistent applications
 - am - [Team Project](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-team-projects.md)
 - 2p - teachers as consultants
+<<<<<<< HEAD
 - breakout: [git square](git-square.md)
+- pm - [Team Project](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-team-projects.md)
+=======
 - pm - [Team Project](../../../../phase-1-guide/blob/nyc/week-2/resources/intro-to-team-projects.md)
+>>>>>>> nyc
 - 6p - Review, refactor, read
 
 > A change in perspective is worth 80 IQ points.
