@@ -15,7 +15,7 @@
   - p6: [Factorial](../../../../algorithm-drill-factorial-challenge): math is fun. really.
   - p7: [Calculating subsets with recursion](../../../../calculating-subsets-with-recursion-challenge): solve a tricky problem
   - p8: [Simple benchmarking with blocks](../../../../simple-benchmarking-with-blocks-challenge): learn to make your own benchmark
-  - p9: [Exploring more advanced ruby](../../../../phase-1-guide/blob/master/week-2/discussions/exploring-advanced-ruby.md): series of videos and a book
+  - p9: [Exploring more advanced ruby](../../../../phase-1-guide/blob/nyc/week-2/resources/exploring-advanced-ruby.md): series of videos and a book
   - p10: [Review regex](../../../../phase-1-guide/blob/master/week-1/discussions/regex.md)
 - 2p - ruby booster
 - pm - OOP Foundations
