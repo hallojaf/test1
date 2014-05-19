@@ -1,12 +1,12 @@
 ### Groups for Week 2
-- **Rapier:** Kevin Zhou, Victor Schaeperkoetter, Dinesh Rai, Raghav Malik, Kennedy Bhagwandeen, Jason Matney
-- **Cutlass:** Judy Jow, Gregory Knudsen, Jessica Tatham, John P Quigley, Natalie Baer, David Kerr
-- **Katana:**  Indigo Greenough, Danielle Adams, Ken Sin, Chantelle Turnbull, Joseph Cohen, Kai Prout
-- **Longsword:** Richard Macias, Jake Huhn, Timothy McClung, Hallo Jaf, Lasse Sviland
+**Rapier:** Kevin Zhou, Victor Schaeperkoetter, Dinesh Rai, Raghav Malik, Kennedy Bhagwandeen, Jason Matney
+**Cutlass:** Judy Jow, Gregory Knudsen, Jessica Tatham, John P Quigley, Natalie Baer, David Kerr
+**Katana:**  Indigo Greenough, Danielle Adams, Ken Sin, Chantelle Turnbull, Joseph Cohen, Kai Prout
+**Longsword:** Richard Macias, Jake Huhn, Timothy McClung, Hallo Jaf, Lasse Sviland
 
 
 
- _____
+ _________
  
 ### Groups for Week 3
 **Mordor:** Ian Greenough, Natalie Baer, Timothy McClung, Richard Macias, John P Quigley, Jason Matney  
