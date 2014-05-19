@@ -1,4 +1,4 @@
-## Week 2
+## week 2
 
 > About the use of language: it is impossible to sharpen a pencil with a blunt axe. It is equally vain to try to do it with ten blunt axes instead.
 >
@@ -43,9 +43,9 @@
   - p4: [orange tree 2](../../../../orange-tree-2-groves-challenge)
   - p5: [worlds dumbest browser](../../../../world-s-dumbest-browser-challenge)
 - 2p - intro to applications, mvc & mvvp
-- pm - Building Applications - basic  
-  - [intro to applications](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-applications.md)  
-  - [hospital interface](../../../../hospital-interface-challenge)  
+- pm - Building Applications - basic
+  - [intro to applications](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-applications.md)
+  - [hospital interface](../../../../hospital-interface-challenge)
 - 6p - Review, refactor, read
   - [POODR](https://www.dropbox.com/s/edpy25pwtfyeckb/Practical%20Object%20Oriented%20Design%20in%20Ruby.pdf)
   - [git](http://pcottle.github.io/learnGitBranching/)
@@ -56,10 +56,10 @@
 > -- Donald Knuth
 
 #### Wednesday (Solo Optional)
-- 9a - design and planning
+- 9a - Review/live [code](https://github.com/red-admirals-2014/mvc_refactor_example) of MVC concepts and dependency injection.
 - am - Building Applications - intermediate
   - [todos 1](../../../../ruby-todos-1-0-core-features-challenge)
-- 2p - code reviews
+- 2p - CRUD and punk rock. [code](https://github.com/red-admirals-2014/phase-1-guide/blob/master/week-2/discussions/crud.rb)
 - pm - Building Applications - intermediate
   - [flashcards 1](../../../../ruby-flashcards-1-single-deck-challenge)
 - 6p - Review, refactor, read
@@ -80,8 +80,8 @@
   - [1:M](../../../../database-drill-one-to-many-schema-challenge)
   - [M:M](../../../../database-drill-many-to-many-schema-challenge)
   - [make it real](../../../../many-to-many-schema-to-database-challenge)
-- 2p - more on schema design 
-- pm - Databases - basic modeling
+- 2p - more on schema design
+- pm - [Advanced Assertions](https://github.com/red-admirals-2014/advanced-assertions-lecture)
   - [introduction part 2](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-data-modeling-2.md)
   - [design a student roster](../../../../database-drill-student-roster-challenge)
   - [design a forum](../../../../forum-database-design-challenge)
@@ -102,6 +102,7 @@
 - 9a - building persistent applications
 - am - [Team Project](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-team-projects.md)
 - 2p - teachers as consultants
+- breakout: [git square](git-square.md)
 - pm - [Team Project](../../../../phase-1-guide/blob/master/week-2/discussions/intro-to-team-projects.md)
 - 6p - Review, refactor, read
 
@@ -110,52 +111,49 @@
 > -- Alan Kay
 
 #### Weekend
-- Review week 2
-- Work on your fundamentals!
-- Try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
-- Get some fresh air and relax, life is good
-- Plan and prep for week 3
+- review week 2
+- work on your fundamentals!
+- try a few challenges from the book [Cracking the Coding Interview](https://www.dropbox.com/s/mcoty3rxut46z13/Cracking%20the%20Coding%20Interview.pdf)
+- get some fresh air and relax, life is good
+- plan and prep for week 3
 
 > Email is a wonderful thing for people whose role in life is to be on top of things. But not for me; my role is to be on the bottom of things. What I do takes long hours of studying and uninterruptible concentration.
 >
 > -- Donald Knuth
 
-### Themes
+### themes
 
 **learning: optimizing your learning**
-
-- Reflecting on your learning
-- Finding your limits
-- Obstacles to learning
-- Exploring new modes
+- reflecting on your learning
+- finding your limits
+- obstacles to learning
+- exploring new modes
 
 **technology: managing complexity**
-
-- Advanced ruby
-- More code performance
-- Object oriented programming
-- Relational / non-relational data
-- Advanced testing
-- Test driven development intro
+- advanced ruby
+- more code performance
+- object oriented programming
+- relational / non-relational data
+- advanced testing
+- test driven development intro
 
 **craftsmanship: focus on quality**
-
-- Abstraction and modularization
-- Writing maintainable code
-- Refactoring code
-- Participating in code reviews
-- Community awareness
-
-
-### Discussions
-
-- Advanced ruby
-- Managing complexity
-- Testing your code
-- Introduction to relational and non-relational databases
+- abstraction and modularization
+- writing maintainable code
+- refactoring code
+- participating in code reviews
+- community awareness
 
 
-### Reading
+### discussions
+
+- advanced ruby
+- managing complexity
+- testing your code
+- introduction to relational and non-relational databases
+
+
+### reading
 
 [dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
@@ -179,4 +177,4 @@
 - [Alan Kay on Learning](http://www.youtube.com/watch?v=50L44hEtVos)
 - On Intelligence
 - Bene Brown on the power of vulnerability (video)
-- Get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
+- get an overview of [Visible Learning](http://visible-learning.org/glossary/) by John Hattie
