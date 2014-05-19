@@ -1,20 +1,13 @@
-## Week 3
+## week 3
 
 > Relational processing entails treating *whole relationships* as operands. Its primary purpose is loop-avoidance, an absolute requirement for end users to be productive at all, and a clear productivity booster for application programmers.
 >
 > -- E.F. Codd
 
-### Groups
-**Mordor:** Ian Greenough, Natalie Baer, Timothy McClung, Richard Macias, John P Quigley, Jason Matney  
-**Narnia:** Gregory Knudsen, Kai Prout, Kennedy Bhagwandeen, Jessica Tatham, Joseph Cohen, Lasse Sviland  
-**Hogwartz:** Danielle Adams, Ken Sin, Chantelle Turnbull, Victor Schaeperkoetter, Hallo Jaf, Kevin Zhou  
-**Endor:** Judy Jow, Raghav Malik, Jake Huhn, Dinesh Rai, David Kerr  
-
-
 #### Monday
 - 9a - orientation to week 3, setting priorities and expectations
 - am - Intermediate Modelling
-  - [make it real](https://github.com/fiddler-crabs-2014/phase-1-guide/blob/nyc/week-2/resources/intro-to-data-modeling-2.md#making-it-real)
+  - [make it real](https://github.com/red-admirals-2014/phase-1-guide/blob/master/week-2/discussions/intro-to-data-modeling.md)
   - [p1 - student roster](../../../../database-drill-student-roster-challenge)
   - [p2 - forum design](../../../../forum-database-design-challenge)
   - [p3 - family tree DB](../../../../family-tree-database-design-challenge)
@@ -50,7 +43,7 @@
   - [active record jr - part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
   - [active record jr - part 2](../../../../activerecord-jr-2-sql-be-gone-challenge)
 - 2p - lecture: exploring object relational mapping
-- pm - Intro to ORM
+- pm - Shadi on [Blocks, Procs, and Lambdas](../../../..blocks-procs-lambdas-lecture)
   - [active record jr - part 3](../../../../activerecord-jr-3-pragmatism-challenge)
   - [active record jr - part 4](../../../../activerecord-jr-4-metaprogramming-challenge)
 - 6p - Review, refactor, read
@@ -79,11 +72,11 @@
 #### Thursday
 - 9a - lecture: real world apps, rake
 - am - AR Associations
-  - Design Your Own Association
+	- Design Your Own Association
 - 2p - lecture: rspec and test frameworks
 - pm - AR Todo
-  - [AR Todos 1](../../../../activerecord-todos-part-1-challenge)
-  - [AR Todos 2](../../../../activerecord-todos-part-2-challenge)
+	- [AR Todos 1](../../../../activerecord-todos-part-1-challenge)
+	- [AR Todos 2](../../../../activerecord-todos-part-2-challenge)
 - 6p - Review, refactor, read
 
 > In mathematics you don't understand things. You just get used to them.
@@ -102,48 +95,45 @@
 > -- Marvin Minsky
 
 #### Weekend
-- Review week 3
-- Work on your fundamentals!
-- Get some fresh air and relax, life is good
-- Plan and prep for phase 2
+- review week 3
+- work on your fundamentals!
+- get some fresh air and relax, life is good
+- plan and prep for phase 2
 
 
-### Themes
+### themes
 
 **learning: optimizing your learning**
-
-- Learning how others learn
-- Exploring your teaching side
+- learning how others learn
+- exploring your teaching side
 
 
 **technology: managing complexity**
-
-- Advanced testing
-- Test driven development intro
-- Studying source code
-- Data driven applications
-- Testing frameworks
+- advanced testing
+- test driven development intro
+- studying source code
+- data driven applications
+- testing frameworks
 
 
 **craftsmanship: focus on quality**
+- refactoring code
+- participating in code reviews
+- community awareness
+- writing unit tests
+- using testing frameworks
+- applied test driven development
 
-- Refactoring code
-- Participating in code reviews
-- Community awareness
-- Writing unit tests
-- Using testing frameworks
-- Applied test driven development
+### discussions
 
-### Discussions
-
-- Intro to active record
-- Intro to advanced testing
-- Testing frameworks
-- Open source applications
-- Building and releasing gems
+- intro to active record
+- intro to advanced testing
+- testing frameworks
+- open source applications
+- building and releasing gems
 
 
-### Reading
+### reading
 
 [dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
