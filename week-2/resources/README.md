@@ -5,6 +5,9 @@ These are some links to potentially useful resources.  There is more information
 
 If you find a resource that is missing, or one that is here but not useful, submit a pull request or an issue on github.  If you find yourself wanting to email a cool link to your cohort - check if it is here first and if not, add it!
 
+### MVC Examples
+
+- [Bunday's Gmail console app](https://github.com/zencephalon/gmail-console-rb)
 
 ### OO
 
