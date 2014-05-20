@@ -37,7 +37,7 @@
 #### Tuesday
 - 9a - OOP level set
 - am - Building Applications - toys
-  - p1: [make the tests pass](../../../../phase-1-guide/blob/nyc/week-2/resources/test-driven-development.rb)
+  - p1: [make the tests pass](../../../../make-the-tests-pass-challenge/)
   - p2: [cookies and ovens](../../../../cookies-and-ovens-challenge)
   - p3: [orange trees 1](../../../../orange-tree-1-just-oranges-challenge)
   - p4: [orange tree 2](../../../../orange-tree-2-groves-challenge)
