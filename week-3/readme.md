@@ -44,7 +44,7 @@
   - [active record jr - part 1](../../../../activerecord-jr-1-a-basic-orm-challenge)
   - [active record jr - part 2](../../../../activerecord-jr-2-sql-be-gone-challenge)
 - 2p - lecture: exploring object relational mapping
-- pm - Shadi on [Blocks, Procs, and Lambdas](../../../..blocks-procs-lambdas-lecture)
+- pm - Intro to ORM
   - [active record jr - part 3](../../../../activerecord-jr-3-pragmatism-challenge)
   - [active record jr - part 4](../../../../activerecord-jr-4-metaprogramming-challenge)
 - 6p - Review, refactor, read
@@ -73,11 +73,11 @@
 #### Thursday
 - 9a - lecture: real world apps, rake
 - am - AR Associations
-	- Design Your Own Association
+  - Design Your Own Association
 - 2p - lecture: rspec and test frameworks
 - pm - AR Todo
-	- [AR Todos 1](../../../../activerecord-todos-part-1-challenge)
-	- [AR Todos 2](../../../../activerecord-todos-part-2-challenge)
+  - [AR Todos 1](../../../../activerecord-todos-part-1-challenge)
+  - [AR Todos 2](../../../../activerecord-todos-part-2-challenge)
 - 6p - Review, refactor, read
 
 > In mathematics you don't understand things. You just get used to them.
@@ -96,45 +96,48 @@
 > -- Marvin Minsky
 
 #### Weekend
-- review week 3
-- work on your fundamentals!
-- get some fresh air and relax, life is good
-- plan and prep for phase 2
+- Review week 3
+- Work on your fundamentals!
+- Get some fresh air and relax, life is good
+- Plan and prep for phase 2
 
 
-### themes
+### Themes
 
 **learning: optimizing your learning**
-- learning how others learn
-- exploring your teaching side
+
+- Learning how others learn
+- Exploring your teaching side
 
 
 **technology: managing complexity**
-- advanced testing
-- test driven development intro
-- studying source code
-- data driven applications
-- testing frameworks
+
+- Advanced testing
+- Test driven development intro
+- Studying source code
+- Data driven applications
+- Testing frameworks
 
 
 **craftsmanship: focus on quality**
-- refactoring code
-- participating in code reviews
-- community awareness
-- writing unit tests
-- using testing frameworks
-- applied test driven development
 
-### discussions
+- Refactoring code
+- Participating in code reviews
+- Community awareness
+- Writing unit tests
+- Using testing frameworks
+- Applied test driven development
 
-- intro to active record
-- intro to advanced testing
-- testing frameworks
-- open source applications
-- building and releasing gems
+### Discussions
+
+- Intro to active record
+- Intro to advanced testing
+- Testing frameworks
+- Open source applications
+- Building and releasing gems
 
 
-### reading
+### Reading
 
 [dropbox with reading content](https://www.dropbox.com/sh/ldrnf12rpx78eye/Kb1a8z2LFx)
 
