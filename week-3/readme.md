@@ -8,7 +8,7 @@
 #### Monday
 - 9a - orientation to week 3, setting priorities and expectations
 - am - Intermediate Modelling
-  - [make it real](https://github.com/fiddler-crabs-2014/phase-1-guide/blob/nyc/week-2/resources/intro-to-data-modeling-2.md#making-it-real)
+  - [make it real](../../../../resources/intro-to-data-modeling.md)
   - [p1 - student roster](../../../../database-drill-student-roster-challenge)
   - [p2 - forum design](../../../../forum-database-design-challenge)
   - [p3 - family tree DB](../../../../family-tree-database-design-challenge)
